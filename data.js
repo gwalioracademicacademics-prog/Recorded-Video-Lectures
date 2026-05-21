@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 21/05/2026, 15:38:36
+//  Generated: 21/05/2026, 17:39:49
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -89,6 +89,70 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mpffia87r1p6",
+        "title": "08 May 2026 (Physics - Basic Maths-1)",
+        "subject": "Physics",
+        "ytId": "1Yt0NZFPX7fQ1x4MUlW9kzZASvwHYo3Am",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpffheu37hoq",
+        "title": "08 May 2026 (Botany - Living World-1)",
+        "subject": "Botany",
+        "ytId": "1wteRFbih3XXMryFmKND4kgXzgSNH3yJO",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpffgobzajhz",
+        "title": "07 May 2026 (Zoology - Animal Kingdom-1)",
+        "subject": "Zoology",
+        "ytId": "1vtLdLPEJc7dDCiHvYXPkYNZyB4VD5P_k",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpfffxpv1euy",
+        "title": "07 May 2026 (Physics - Basic Maths-1)",
+        "subject": "Physics",
+        "ytId": "1w2i_HAH7WRkH5u9f6dpNTMM8tEW4QJ6g",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpff9vmivq4x",
+        "title": "05 May 2026 (Zoology - Animal Kingdom) Chapter-1",
+        "subject": "Zoology",
+        "ytId": "1O1fHyjNq45exkauKgJsVlSWPWMrxXPVd",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpff7as2gdkz",
+        "title": "05 May 2026 (Botany - Living World-1)",
+        "subject": "Botany",
+        "ytId": "1XWDFFlQFnlDzeg-5c2f3DSTUmbB7Ye5J",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpff6nfkc9uq",
+        "title": "04 May 2026 (Zoology - Animal Kingdom-1)",
+        "subject": "Zoology",
+        "ytId": "16GLsKgZUo4a6OGnQDyRjbBw0EHrJ9qs8",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
+    {
+        "id": "mpff4xai8edt",
+        "title": "04 May 2026 (Chemistry - Some Basic Concepts of Chemistry-1)",
+        "subject": "Chemistry",
+        "ytId": "13gGhHKnS_OObWNMD8b10g_Af7fIUyqDd",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-21"
+    },
     {
         "id": "mpfbvgu7yngj",
         "title": "07 May 2026 (Chemistry - Some Basic Concepts of Chemistry-1)",
