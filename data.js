@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 21/05/2026, 14:15:18
+//  Generated: 21/05/2026, 15:38:36
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -90,42 +90,10 @@ const DB = {
 
   lectures: [
     {
-        "id": "mpf8viawrsib",
-        "title": "04 May 2026 | Botany | Living World | Chapter-1",
-        "subject": "Botany",
-        "ytId": "https://youtu.be/wyjhZ-nq6fA",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpf8v1brww2z",
-        "title": "NEET Growth | 04 May 2026 | Chemistry | Some Basic Concepts of Chemistry | Chapter 1",
+        "id": "mpfbvgu7yngj",
+        "title": "07 May 2026 (Chemistry - Some Basic Concepts of Chemistry-1)",
         "subject": "Chemistry",
-        "ytId": "https://youtu.be/h6BuHe6Sx-A",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpf8uk6niwuq",
-        "title": "NEET Growth | 04 May 2026 | Zoology | Animal Kingdom | Chapter 1",
-        "subject": "Zoology",
-        "ytId": "https://youtu.be/fCVtCEVdY_E",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpf8u4cc50f7",
-        "title": "NEET Growth | 05 May 2026 | Botany | Living World | Chapter 1",
-        "subject": "Botany",
-        "ytId": "https://youtu.be/jgtOkrRBjIY",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpf8tg1pecha",
-        "title": "NEET Growth | 05 May 2026 | Zoology | Animal Kingdom | Chapter 1",
-        "subject": "Zoology",
-        "ytId": "https://youtu.be/btHCrlOZE80",
+        "ytId": "14YATyou5XTRHiZ-xwaQN8V2rf7ADTkdE",
         "batchId": "mpf8m00h475g",
         "date": "2026-05-21"
     }
