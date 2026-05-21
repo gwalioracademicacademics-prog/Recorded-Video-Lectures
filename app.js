@@ -59,8 +59,18 @@ const usingDemo = () => false; // data.js is always the source
 // ╚══════════════════════════════════════════════════════════╝
 const esc       = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const batchName = id => (STATE.batches.find(b=>b.id===id)||{name:'—'}).name;
-const ytThumb   = id => `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
-const ytEmbed   = id => `https://www.youtube-nocookie.com/embed/${id}?modestbranding=1&rel=0&iv_load_policy=3`;
+// Google Drive helpers
+// Accepts full Drive share URL or just the file ID
+const driveId    = url => {
+  if (!url) return '';
+  // Already a raw ID (no slashes, no dots)
+  if (/^[a-zA-Z0-9_-]{25,}$/.test(url.trim())) return url.trim();
+  // Extract from share URL: /d/FILE_ID/ or id=FILE_ID
+  const m = url.match(/\/d\/([a-zA-Z0-9_-]{25,})/) || url.match(/[?&]id=([a-zA-Z0-9_-]{25,})/);
+  return m ? m[1] : url.trim();
+};
+const driveThumb = url => { const id = driveId(url); return id ? `https://drive.google.com/thumbnail?id=${id}&sz=w480` : ''; };
+const driveEmbed = url => { const id = driveId(url); return id ? `https://drive.google.com/file/d/${id}/preview` : ''; };
 const today     = () => new Date().toISOString().slice(0,10);
 const uid       = () => Date.now().toString(36) + Math.random().toString(36).slice(2,6);
 const setMain   = html => document.getElementById('mainArea').innerHTML = html;
@@ -343,10 +353,10 @@ function navigate(sec) {
 // ╔══════════════════════════════════════════════════════════╗
 // ║                  VIDEO MODAL                            ║
 // ╚══════════════════════════════════════════════════════════╝
-function openVideo(ytId, title, subject, batch, date) {
+function openVideo(videoUrl, title, subject, batch, date) {
   document.getElementById('vModalTitle').textContent = title;
   document.getElementById('vModalMeta').textContent  = `${subject} · ${batch} · ${date}`;
-  document.getElementById('vFrame').src = ytEmbed(ytId);
+  document.getElementById('vFrame').src = driveEmbed(videoUrl);
   document.getElementById('vModal').classList.remove('hidden');
 }
 function closeVideo() {
@@ -381,8 +391,9 @@ function myLectures() {
           ${lecs.map(l=>`
             <div class="vcard" onclick="openVideo('${esc(l.ytId)}','${esc(l.title)}','${esc(l.subject)}','${esc(bn)}','${esc(l.date)}')">
               <div class="vthumb">
-                <img src="${ytThumb(l.ytId)}" alt="${esc(l.title)}" loading="lazy"
-                  onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 9%22><rect fill=%22%230f172a%22 width=%2216%22 height=%229%22/></svg>'">
+                <img src="${driveThumb(l.ytId)}" alt="${esc(l.title)}" loading="lazy"
+                  onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 9%22><rect fill=%22%230f172a%22 width=%2216%22 height=%229%22/></svg>'"
+                  style="object-fit:cover;">
                 <div class="play-btn"><div class="play-tri"></div></div>
               </div>
               <div class="vinfo">
@@ -792,7 +803,7 @@ function lectures() {
   setMain(`
     <div class="page-header">
       <div class="page-title">Lectures</div>
-      <div class="page-sub">Add YouTube videos for each batch</div>
+      <div class="page-sub">Add Google Drive videos for each batch</div>
     </div>
     <div class="card">
       <div class="card-title">➕ Add Lecture</div>
@@ -801,13 +812,13 @@ function lectures() {
           <input class="form-input" id="lTitle" placeholder="e.g. Thermodynamics Part 1"></div>
         <div class="form-group"><label class="form-label">Subject</label>
           <input class="form-input" id="lSubject" placeholder="Physics"></div>
-        <div class="form-group"><label class="form-label">YouTube Video ID</label>
-          <input class="form-input" id="lYtId" placeholder="kKKM8Y-u7ds"></div>
+        <div class="form-group"><label class="form-label">Google Drive Link</label>
+          <input class="form-input" id="lYtId" placeholder="Paste Drive share URL or file ID"></div>
         <div class="form-group"><label class="form-label">Batch</label>
           <select class="form-select" id="lBatch">${bOpts}</select></div>
         <div style="padding-top:22px;"><button class="btn btn-success" onclick="addLecture()">Add</button></div>
       </div>
-      <div class="hint">💡 YouTube ID: from youtube.com/watch?v=<strong>THIS_PART</strong></div>
+      <div class="hint">💡 How to get link: Google Drive → Right-click video → <strong>Share</strong> → <strong>Copy link</strong> → Paste here. Make sure access is set to <strong>"Anyone with the link"</strong>.</div>
     </div>
     <div class="card">
       <div class="flex-between" style="margin-bottom:14px;">
@@ -826,8 +837,9 @@ function lectureCards(list) {
   return list.map(l=>`
     <div class="vcard">
       <div class="vthumb" onclick="openVideo('${esc(l.ytId)}','${esc(l.title)}','${esc(l.subject)}','${esc(batchName(l.batchId))}','${esc(l.date)}')">
-        <img src="${ytThumb(l.ytId)}" alt="${esc(l.title)}" loading="lazy"
-          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 9%22><rect fill=%22%230f172a%22 width=%2216%22 height=%229%22/></svg>'">
+        <img src="${driveThumb(l.ytId)}" alt="${esc(l.title)}" loading="lazy"
+          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 9%22><rect fill=%22%230f172a%22 width=%2216%22 height=%229%22/></svg>'"
+          style="object-fit:cover;">
         <div class="play-btn"><div class="play-tri"></div></div>
       </div>
       <div class="vinfo">
@@ -850,7 +862,8 @@ function filterLectures(batchId) {
 async function addLecture() {
   const title   = document.getElementById('lTitle').value.trim();
   const subject = document.getElementById('lSubject').value.trim();
-  const ytId    = document.getElementById('lYtId').value.trim().replace(/.*v=/,'').replace(/&.*/,'');
+  const rawUrl  = document.getElementById('lYtId').value.trim();
+  const ytId    = driveId(rawUrl);
   const batchId = document.getElementById('lBatch').value;
   if (!title||!subject||!ytId||!batchId) { toast('Fill all fields', 'e'); return; }
   const newL = { id:uid(), title, subject, ytId, batchId, date: today() };
@@ -874,8 +887,8 @@ function editLecture(id) {
         <input class="form-input" id="leTitle" value="${esc(l.title)}"></div>
       <div class="form-group"><label class="form-label">Subject</label>
         <input class="form-input" id="leSubject" value="${esc(l.subject)}"></div>
-      <div class="form-group"><label class="form-label">YouTube Video ID</label>
-        <input class="form-input" id="leYtId" value="${esc(l.ytId)}" placeholder="kKKM8Y-u7ds"></div>
+      <div class="form-group"><label class="form-label">Google Drive Link</label>
+        <input class="form-input" id="leYtId" value="${esc(l.ytId)}" placeholder="Paste Drive share URL or file ID"></div>
       <div class="form-group"><label class="form-label">Batch</label>
         <select class="form-select" id="leBatch">${bOpts}</select></div>
       <div style="display:flex;gap:10px;margin-top:20px;flex-wrap:wrap;">
@@ -889,7 +902,7 @@ async function saveLectureEdit(id) {
   const l       = STATE.lectures.find(l=>l.id===id);
   const title   = document.getElementById('leTitle').value.trim();
   const subject = document.getElementById('leSubject').value.trim();
-  const ytId    = document.getElementById('leYtId').value.trim().replace(/.*v=/,'').replace(/&.*/,'');
+  const ytId    = driveId(document.getElementById('leYtId').value.trim());
   const batchId = document.getElementById('leBatch').value;
   if (!title||!subject||!ytId||!batchId) { toast('Fill all fields','e'); return; }
   l.title=title; l.subject=subject; l.ytId=ytId; l.batchId=batchId;
