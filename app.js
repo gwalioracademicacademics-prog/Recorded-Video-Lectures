@@ -70,7 +70,7 @@ const driveId    = url => {
   return m ? m[1] : url.trim();
 };
 const driveThumb = url => { const id = driveId(url); return id ? `https://drive.google.com/thumbnail?id=${id}&sz=w480` : ''; };
-const driveEmbed = url => { const id = driveId(url); return id ? `https://drive.google.com/file/d/${id}/preview` : ''; };
+const driveEmbed = url => { const id = driveId(url); return id ? `https://drive.google.com/file/d/${id}/preview?rm=minimal` : ''; };
 const today     = () => new Date().toISOString().slice(0,10);
 const uid       = () => Date.now().toString(36) + Math.random().toString(36).slice(2,6);
 const setMain   = html => document.getElementById('mainArea').innerHTML = html;
