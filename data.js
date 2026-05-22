@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 21/05/2026, 17:39:49
+//  Generated: 22/05/2026, 15:03:41
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -89,6 +89,38 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mpgq2jc09zht",
+        "title": "09 May 2026 (Zoology - Animal Kingdom-1)",
+        "subject": "Zoology",
+        "ytId": "1sVPr4DGu6CBgTBX5zi_cFqM_93WsFoP3",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-22"
+    },
+    {
+        "id": "mpgq116xfr9a",
+        "title": "09 May 2026 (Physics - Basic Maths-1)",
+        "subject": "Physics",
+        "ytId": "1M3yMSgIkHrDfgQnCeQFLfRIO4EIElKg3",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-22"
+    },
+    {
+        "id": "mpgq0gy8om9g",
+        "title": "09 May 2026 (Botany - Living World-1)",
+        "subject": "Botany",
+        "ytId": "1k41f6K6lO3FoYgsZy8-SkUigesK_59H-",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-22"
+    },
+    {
+        "id": "mpgpv4c09bqc",
+        "title": "08 May 2026 (Zoology - Animal Kingdom-1)",
+        "subject": "Zoology",
+        "ytId": "1bzxVCHKYaYKvs-cqR0LhxyM1KdOqUd0I",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-22"
+    },
     {
         "id": "mpffia87r1p6",
         "title": "08 May 2026 (Physics - Basic Maths-1)",
