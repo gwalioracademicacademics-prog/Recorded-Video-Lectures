@@ -353,16 +353,12 @@ function navigate(sec) {
 // ╔══════════════════════════════════════════════════════════╗
 // ║                  VIDEO MODAL                            ║
 // ╚══════════════════════════════════════════════════════════╝
-function openVideo(videoUrl, title, subject, batch, date) {
-  document.getElementById('vModalTitle').textContent = title;
-  document.getElementById('vModalMeta').textContent  = `${subject} · ${batch} · ${date}`;
-  document.getElementById('vFrame').src = driveEmbed(videoUrl);
-  document.getElementById('vModal').classList.remove('hidden');
+function openVideo(videoUrl) {
+  const id = driveId(videoUrl);
+  window.open(`https://drive.google.com/file/d/${id}/view`, '_blank');
 }
-function closeVideo() {
-  document.getElementById('vModal').classList.add('hidden');
-  document.getElementById('vFrame').src = '';
-}
+function closeVideo() {}
+
 
 // ╔══════════════════════════════════════════════════════════╗
 // ║               STUDENT: MY LECTURES                      ║
