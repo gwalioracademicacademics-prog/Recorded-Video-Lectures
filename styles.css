@@ -242,8 +242,22 @@ tr:hover td{background:#f8fafc;}
 .modal-title{font-size:15px;font-weight:700;color:var(--text);line-height:1.4;}
 .modal-x{background:none;border:none;font-size:22px;color:var(--muted);cursor:pointer;line-height:1;padding:0;flex-shrink:0;}
 .modal-x:hover{color:var(--text);}
-.embed{width:100%;aspect-ratio:16/9;background:#000;position:relative;overflow:hidden;}
-.embed iframe{position:absolute;inset:0;width:100%;height:100%;border:none;display:block;}
+.embed{
+  width:100%;
+  aspect-ratio:16/9;
+  background:#000;
+  position:relative;
+  overflow:hidden;
+  max-height:60vh;
+}
+.embed iframe{
+  position:absolute;
+  top:0;left:0;
+  width:100%;
+  height:100%;
+  border:none;
+  display:block;
+}
 .modal-foot{padding:12px 22px;font-size:13px;color:var(--muted);}
 
 /* ── MISC ── */
@@ -386,7 +400,7 @@ tr:hover td{background:#f8fafc;}
   .bin-item-actions{width:100%;justify-content:flex-end;}
 
   /* Modal full screen on mobile — portrait */
-  .modal-bg{padding:0;align-items:center;justify-content:center;}
+  .modal-bg{padding:0;align-items:stretch;justify-content:stretch;}
   .modal{
     border-radius:0;
     width:100vw;max-width:100vw;
@@ -395,11 +409,14 @@ tr:hover td{background:#f8fafc;}
     display:flex;flex-direction:column;
     background:#000;
   }
-  .modal-head{padding:12px 16px;flex-shrink:0;background:#fff;}
-  .modal-title{font-size:13px;}
+  .modal-head{padding:12px 16px;flex-shrink:0;background:#1e1e1e;border-bottom:1px solid #333;}
+  .modal-title{font-size:13px;color:#fff;}
+  .modal-x{color:#aaa;}
   .embed{
     flex:1;
+    width:100%;
     aspect-ratio:unset;
+    max-height:unset;
     position:relative;
     background:#000;
     min-height:0;
@@ -407,19 +424,19 @@ tr:hover td{background:#f8fafc;}
   }
   .embed iframe{
     position:absolute;
-    inset:0;
+    top:0;left:0;
     width:100%;
     height:100%;
     border:none;
   }
-  .modal-foot{padding:10px 16px;flex-shrink:0;font-size:12px;background:#fff;}
+  .modal-foot{padding:8px 16px;flex-shrink:0;font-size:11px;background:#1e1e1e;color:#aaa;}
 }
 
 /* ══════════════════════════════════════
    RESPONSIVE — MOBILE LANDSCAPE
 ══════════════════════════════════════ */
 @media(max-width:900px) and (orientation:landscape){
-  .modal-bg{padding:0;}
+  .modal-bg{padding:0;align-items:stretch;}
   .modal{
     border-radius:0;
     width:100vw;max-width:100vw;
@@ -428,19 +445,23 @@ tr:hover td{background:#f8fafc;}
     display:flex;flex-direction:column;
     background:#000;
   }
-  .modal-head{padding:8px 14px;flex-shrink:0;background:#fff;}
-  .modal-title{font-size:12px;}
+  .modal-head{padding:6px 14px;flex-shrink:0;background:#1e1e1e;border-bottom:1px solid #333;}
+  .modal-title{font-size:11px;color:#fff;}
+  .modal-x{color:#aaa;}
   .modal-foot{display:none;}
   .embed{
     flex:1;
+    width:100%;
     aspect-ratio:unset;
+    max-height:unset;
     position:relative;
     min-height:0;
     overflow:hidden;
+    background:#000;
   }
   .embed iframe{
     position:absolute;
-    inset:0;
+    top:0;left:0;
     width:100%;
     height:100%;
     border:none;
