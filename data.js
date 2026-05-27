@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 22/05/2026, 15:03:41
+//  Generated: 27/05/2026, 22:38:45
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -90,108 +90,108 @@ const DB = {
 
   lectures: [
     {
-        "id": "mpgq2jc09zht",
-        "title": "09 May 2026 (Zoology - Animal Kingdom-1)",
+        "id": "mpobemrendtg",
+        "title": "18 May 2026 (Zoology) Akhand Sir",
         "subject": "Zoology",
-        "ytId": "1sVPr4DGu6CBgTBX5zi_cFqM_93WsFoP3",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-22"
+        "ytId": "1KghrB_YIghxY57Xes9Nc_MoDGxqlTVOY",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
     },
     {
-        "id": "mpgq116xfr9a",
-        "title": "09 May 2026 (Physics - Basic Maths-1)",
+        "id": "mpobe5rx1any",
+        "title": "16 May 2026 (Zoology) Akhand Sir",
+        "subject": "Zoology",
+        "ytId": "1hTeoK3QQ3MVrt9m74-ocr0pC8yK5PsoG",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpobd8na5tyy",
+        "title": "16 May 2026 (Physics) Mayur Sir",
         "subject": "Physics",
-        "ytId": "1M3yMSgIkHrDfgQnCeQFLfRIO4EIElKg3",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-22"
+        "ytId": "1Hx68k_S2mx_ZTrepgAv8A29E6hZaBq_R",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
     },
     {
-        "id": "mpgq0gy8om9g",
-        "title": "09 May 2026 (Botany - Living World-1)",
-        "subject": "Botany",
-        "ytId": "1k41f6K6lO3FoYgsZy8-SkUigesK_59H-",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-22"
-    },
-    {
-        "id": "mpgpv4c09bqc",
-        "title": "08 May 2026 (Zoology - Animal Kingdom-1)",
-        "subject": "Zoology",
-        "ytId": "1bzxVCHKYaYKvs-cqR0LhxyM1KdOqUd0I",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-22"
-    },
-    {
-        "id": "mpffia87r1p6",
-        "title": "08 May 2026 (Physics - Basic Maths-1)",
-        "subject": "Physics",
-        "ytId": "1Yt0NZFPX7fQ1x4MUlW9kzZASvwHYo3Am",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpffheu37hoq",
-        "title": "08 May 2026 (Botany - Living World-1)",
-        "subject": "Botany",
-        "ytId": "1wteRFbih3XXMryFmKND4kgXzgSNH3yJO",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpffgobzajhz",
-        "title": "07 May 2026 (Zoology - Animal Kingdom-1)",
-        "subject": "Zoology",
-        "ytId": "1vtLdLPEJc7dDCiHvYXPkYNZyB4VD5P_k",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpfffxpv1euy",
-        "title": "07 May 2026 (Physics - Basic Maths-1)",
-        "subject": "Physics",
-        "ytId": "1w2i_HAH7WRkH5u9f6dpNTMM8tEW4QJ6g",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpff9vmivq4x",
-        "title": "05 May 2026 (Zoology - Animal Kingdom) Chapter-1",
-        "subject": "Zoology",
-        "ytId": "1O1fHyjNq45exkauKgJsVlSWPWMrxXPVd",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpff7as2gdkz",
-        "title": "05 May 2026 (Botany - Living World-1)",
-        "subject": "Botany",
-        "ytId": "1XWDFFlQFnlDzeg-5c2f3DSTUmbB7Ye5J",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpff6nfkc9uq",
-        "title": "04 May 2026 (Zoology - Animal Kingdom-1)",
-        "subject": "Zoology",
-        "ytId": "16GLsKgZUo4a6OGnQDyRjbBw0EHrJ9qs8",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
-    },
-    {
-        "id": "mpff4xai8edt",
-        "title": "04 May 2026 (Chemistry - Some Basic Concepts of Chemistry-1)",
+        "id": "mpobcoq5oi3r",
+        "title": "16 May 2026 (Chemistry) Ashutosh Sir",
         "subject": "Chemistry",
-        "ytId": "13gGhHKnS_OObWNMD8b10g_Af7fIUyqDd",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
+        "ytId": "1bmxZGlICIP_hSH5zDayjDZJvdkbFEjtp",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
     },
     {
-        "id": "mpfbvgu7yngj",
-        "title": "07 May 2026 (Chemistry - Some Basic Concepts of Chemistry-1)",
+        "id": "mpobc7fx6iqs",
+        "title": "14 May 2026 (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1COvEWuKim0refzrxYj1RITm_5-2dydB8",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpob8qbl2ot9",
+        "title": "14 May 2026 (Botany)",
+        "subject": "Botany",
+        "ytId": "13qLxSqilzZN2H6eZkNRUj1ZrU3IUtxtr",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpob7htctztt",
+        "title": "13 May 2026 (Zoology) Akhand Sir",
+        "subject": "Zoology",
+        "ytId": "1D9NK3Zr81EY-AqeyxOCBOctgWKNMzbST",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpob5g88rv1w",
+        "title": "13 May 2026 (Botany) Mangalam Sir",
+        "subject": "Botany",
+        "ytId": "1_XX-rZ2BzfVx8aC6HquTsQs9CSTgNOrw",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpo1u1x0e8u5",
+        "title": "26 may 2026 (R-6) IIT JEE Excel-2 (Maths - Matrix L-2)",
+        "subject": "Maths",
+        "ytId": "1sSjxPSa5nn88eacn-KBS2CIo7LzUJ3Pn",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpo1sbejszod",
+        "title": "26 May 2026 NEET Excel (Physics - Magnetic Effect of Current (L-3) )",
+        "subject": "Physics",
+        "ytId": "1lcRvIuoLDbqw3jcZd_gpKRu9AkQlyBl_",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpo1rlysl9f2",
+        "title": "26 May 2026 NEET Excel (Chemistry - Coordination Chemistry (L-2))",
         "subject": "Chemistry",
-        "ytId": "14YATyou5XTRHiZ-xwaQN8V2rf7ADTkdE",
-        "batchId": "mpf8m00h475g",
-        "date": "2026-05-21"
+        "ytId": "15qMJMjMwDohnC7luISXqE0I9O9lI0Vfl",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpo1pb76gh6h",
+        "title": "26 May 2026 NEET Excel (Botany - Genetics (L-1))",
+        "subject": "Botany",
+        "ytId": "1SpPcB0e7Iacl1E9ar8VzF7nyDp0qQCxF",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-05-27"
+    },
+    {
+        "id": "mpo1jcglhh2a",
+        "title": "26 May 2026 (R-6) IIT JEE Excel-2 (Chemistry - p block elements L-2)",
+        "subject": "Chemistry",
+        "ytId": "1NOC2i87SP-OwPvaiq7NIU4K6R0kJu0EJ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-05-27"
     }
 ],
 
