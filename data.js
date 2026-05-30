@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 29/05/2026, 16:32:17
+//  Generated: 30/05/2026, 11:44:11
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -89,10 +89,402 @@ const DB = {
         "batchId": "mpf8m00h475g",
         "active": "true",
         "password": "12345"
+    },
+    {
+        "id": "mprxsn8hq17c",
+        "name": "Varnica Arya",
+        "email": "172611001",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "varnica001"
+    },
+    {
+        "id": "mprxt9bc1gya",
+        "name": "Garvit Rathore",
+        "email": "172611002",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "garvit002"
+    },
+    {
+        "id": "mprxtqllb9jd",
+        "name": "Manya rajak",
+        "email": "172611003",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "manya003"
+    },
+    {
+        "id": "mprxug4j1tha",
+        "name": "Anushka tomar",
+        "email": "172611004",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "anushka004"
+    },
+    {
+        "id": "mprxvieqyus8",
+        "name": "Kartik Mishra",
+        "email": "172611005",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "kartik005"
+    },
+    {
+        "id": "mprxvuahleof",
+        "name": "Madhuraj",
+        "email": "172611006",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "madhuraj006"
+    },
+    {
+        "id": "mprxxqb3uh6d",
+        "name": "Naveen rajak",
+        "email": "172611007",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "naveen007"
+    },
+    {
+        "id": "mprxy0ins77r",
+        "name": "Jitin Chauhan",
+        "email": "172611008",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "jitin008"
+    },
+    {
+        "id": "mprxyag32gqf",
+        "name": "Disha Suryawanshi",
+        "email": "172611009",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "disha009"
+    },
+    {
+        "id": "mprxymcapmk2",
+        "name": "Somya Yadav",
+        "email": "172611010",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "somya010"
+    },
+    {
+        "id": "mprxyx5mmgn2",
+        "name": "Adarsh Singh Kushwah",
+        "email": "172611011",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "adarsh011"
+    },
+    {
+        "id": "mprxzcskk8kg",
+        "name": "Girraj Panday",
+        "email": "172611012",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "girraj012"
+    },
+    {
+        "id": "mprxznio9uww",
+        "name": "Abhay Batham",
+        "email": "172611013",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "abhay013"
+    },
+    {
+        "id": "mprxzwv8w8v6",
+        "name": "Arun Sharma",
+        "email": "172611014",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "arun014"
+    },
+    {
+        "id": "mpry07fd6j8p",
+        "name": "Naitik Puriya",
+        "email": "172611015",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "naitik015"
+    },
+    {
+        "id": "mpry0mueefnq",
+        "name": "Sanjay Bhatia",
+        "email": "172611016",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "sanjay016"
+    },
+    {
+        "id": "mpry0wsqdnbc",
+        "name": "Abhiraj Singh Bhadoria",
+        "email": "172611017",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "abhiraj017"
+    },
+    {
+        "id": "mpry18bjecyn",
+        "name": "Sanidhya Jain",
+        "email": "172611018",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "sanidhya018"
+    },
+    {
+        "id": "mpry1j1ojykl",
+        "name": "Kushagra Singh Kushwah",
+        "email": "172611019",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "kushagra019"
+    },
+    {
+        "id": "mpry1toiwlvj",
+        "name": "Aryan Gaur",
+        "email": "172611020",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "aryan020"
+    },
+    {
+        "id": "mpry24j8oo56",
+        "name": "Namya tripathi",
+        "email": "172611021",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "namya021"
+    },
+    {
+        "id": "mpry2fap9cn7",
+        "name": "Susheel sharma",
+        "email": "172611022",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "susheel022"
+    },
+    {
+        "id": "mpry2s2fvarh",
+        "name": "Chirag Shivhare",
+        "email": "172611023",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "chirag023"
+    },
+    {
+        "id": "mpry32benkjv",
+        "name": "Poonam Jatav",
+        "email": "172611024",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "poonam024"
+    },
+    {
+        "id": "mpry3dlvb7h6",
+        "name": "Harshit chaturvedi",
+        "email": "172611025",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "harshit025"
+    },
+    {
+        "id": "mpry43fwtbq4",
+        "name": "Himanshu Tomar",
+        "email": "162611026",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "himanshu026"
+    },
+    {
+        "id": "mpry4eo1mp72",
+        "name": "Shaurya Bareliya",
+        "email": "162611027",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "shaurya027"
+    },
+    {
+        "id": "mpry4p0b8s5l",
+        "name": "Shushmita Dhakad",
+        "email": "162611028",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "shushmita028"
+    },
+    {
+        "id": "mpry519ww8l0",
+        "name": "Jyotiraditya pathak",
+        "email": "162611029",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "jyotiraditya029"
+    },
+    {
+        "id": "mpry5ca6wdso",
+        "name": "Naitik parihar",
+        "email": "162611030",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "naitik030"
+    },
+    {
+        "id": "mpry5n5vzllj",
+        "name": "Rishabh Rathore",
+        "email": "162611031",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "rishabh031"
+    },
+    {
+        "id": "mpry5wt23nte",
+        "name": "Aditya rawat",
+        "email": "162611032",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "aditya032"
+    },
+    {
+        "id": "mpry678l7x5p",
+        "name": "Divyanshi Sharma",
+        "email": "162611033",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "divyanshi033"
+    },
+    {
+        "id": "mpry6heqphj5",
+        "name": "Brajraj Yadav",
+        "email": "162611034",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "brajraj034"
+    },
+    {
+        "id": "mpry6wopqrp5",
+        "name": "Ragini Soni",
+        "email": "162611035",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "ragini035"
+    },
+    {
+        "id": "mpry77jwsksw",
+        "name": "Sanket Kumar Gaur",
+        "email": "162611036",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "sanket036"
+    },
+    {
+        "id": "mpry7mtfckue",
+        "name": "Ved SIkarwar",
+        "email": "162611037",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "ved037"
+    },
+    {
+        "id": "mpry7zctgiql",
+        "name": "Priyanka Rathor",
+        "email": "162611038",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "priyanka038"
+    },
+    {
+        "id": "mpry88r8jwov",
+        "name": "Garima Kaurav",
+        "email": "162611039",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "garima039"
+    },
+    {
+        "id": "mpry9rlp73l4",
+        "name": "Chitransh Kumar",
+        "email": "162611040",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "chitransh040"
+    },
+    {
+        "id": "mprya277cdm7",
+        "name": "Bhavesh prajapati",
+        "email": "162611041",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "bhavesh041"
+    },
+    {
+        "id": "mpryaiqj6gzm",
+        "name": "Riya Kaurav",
+        "email": "162611042",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "riya042"
+    },
+    {
+        "id": "mpryg941wn6n",
+        "name": "Saniya khan",
+        "email": "162611043",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "sanjay043"
+    },
+    {
+        "id": "mprygtfh61yk",
+        "name": "Shashwat Singh Tomar",
+        "email": "162611044",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "shashwat044"
     }
 ],
 
   lectures: [
+    {
+        "id": "mprxp1tqv191",
+        "title": "29 May 2026 NEET Growth-1 )(Botany (Cell The unit of Life (L-3))",
+        "subject": "Botany",
+        "ytId": "1_6zLc9LEQIg_JEqLs5IeVJ-Zu073-5oF",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-30"
+    },
+    {
+        "id": "mprxomyokp91",
+        "title": "29 May 2026 NEET Growth-1 (Zoology - Structural Organization (L-3))",
+        "subject": "Zoology",
+        "ytId": "1A97wS0OHKyTk7PROVL7Y-QEy3qtZQDug",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-30"
+    },
+    {
+        "id": "mprxo8wkwar8",
+        "title": "29 May 2026 NEET Growth-1 (Physics-Basic Math (L-17))",
+        "subject": "Physics",
+        "ytId": "1RhMxwyU18pXpK4mUjqJH9_VGT-5dt-1E",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-30"
+    },
+    {
+        "id": "mprxnuecnpsr",
+        "title": "27 May 2026 NEET Growth-1(Physics-Basic Math (L-16))",
+        "subject": "Physics",
+        "ytId": "1s_9TzahUj37vPjztUuoVPpZQb1YBUijG",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-30"
+    },
+    {
+        "id": "mprxnevk90lj",
+        "title": "27 May 2026 NEET Growth-1 (Chemistry - Some Basic Concepts of Chemistry (L-15))",
+        "subject": "Chemistry",
+        "ytId": "11TDo-_Z4Yaq1xo4vr_rn_kA1F4nElPRS",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-05-30"
+    },
     {
         "id": "mpqsenl6v36i",
         "title": "27 May 2026 Dropper NEET 2 Hindi (Physics)",
