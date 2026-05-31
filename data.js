@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 30/05/2026, 12:36:20
+//  Generated: 31/05/2026, 12:47:53
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -449,6 +449,766 @@ const DB = {
         "batchId": "mpf8m00h475g",
         "active": "true",
         "password": "akshada140"
+    },
+    {
+        "id": "mptf47uaitpi",
+        "name": "Anshuman sharma",
+        "email": "172612045",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "anshuman045"
+    },
+    {
+        "id": "mptf4y5xcx99",
+        "name": "Kuldeep Bhadoria",
+        "email": "172612046",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "kuldeep046"
+    },
+    {
+        "id": "mptf59tdkmq3",
+        "name": "Yogesh Prajapati",
+        "email": "172612047",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "yogesh047"
+    },
+    {
+        "id": "mptf5ltav3u5",
+        "name": "Anshika Kushwah",
+        "email": "172612048",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "anshika048"
+    },
+    {
+        "id": "mptf5x4a3cda",
+        "name": "Shalini Lodhi",
+        "email": "172612049",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "shalini049"
+    },
+    {
+        "id": "mptf66nc515j",
+        "name": "Prince Lodhi",
+        "email": "172612050",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "prince050"
+    },
+    {
+        "id": "mptf6heb1xhp",
+        "name": "Uzma Khan",
+        "email": "172612051",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "uzma051"
+    },
+    {
+        "id": "mptf6r21ej6p",
+        "name": "Raj Prajapati",
+        "email": "172612052",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "raj052"
+    },
+    {
+        "id": "mptf71bworly",
+        "name": "Anshuman Prajapati",
+        "email": "172612053",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "anshuman053"
+    },
+    {
+        "id": "mptf7b5ldu7w",
+        "name": "Akash Dhakad",
+        "email": "172612054",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "akash054"
+    },
+    {
+        "id": "mptf7k8wy57i",
+        "name": "Nitin Sharma",
+        "email": "172612055",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "nitin055"
+    },
+    {
+        "id": "mptf7vhzlar2",
+        "name": "Aniket chorasiya",
+        "email": "172612056",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "aniket056"
+    },
+    {
+        "id": "mptf868jcxra",
+        "name": "Hariny Vashisht",
+        "email": "172612057",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "hariny057"
+    },
+    {
+        "id": "mptf8gpgoepb",
+        "name": "Varun Singh atal",
+        "email": "172612058",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "varun058"
+    },
+    {
+        "id": "mptf8pyqwj38",
+        "name": "Anuj sikarwar",
+        "email": "172612059",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "anuj059"
+    },
+    {
+        "id": "mptf8z8z0365",
+        "name": "Anushka rajput",
+        "email": "172612060",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "anushka060"
+    },
+    {
+        "id": "mptf99qag57d",
+        "name": "Arjav Jain",
+        "email": "172612061",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "arjav061"
+    },
+    {
+        "id": "mptf9k8zxqew",
+        "name": "Diksha Pal",
+        "email": "172612062",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "diksha062"
+    },
+    {
+        "id": "mptf9uqa2zjn",
+        "name": "Akshat Raj",
+        "email": "172612063",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "akshat063"
+    },
+    {
+        "id": "mptfa6ng5uea",
+        "name": "Ayush Patel",
+        "email": "172612064",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "ayush064"
+    },
+    {
+        "id": "mptfahzenfyy",
+        "name": "Shaurya Tomar",
+        "email": "172612065",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "shaurya065"
+    },
+    {
+        "id": "mptfasjxaocg",
+        "name": "Lakshya meena",
+        "email": "172612066",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "lakshay066"
+    },
+    {
+        "id": "mptfb2k3k0yn",
+        "name": "Uday Pratap Singh kushwah",
+        "email": "172612067",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "uday067"
+    },
+    {
+        "id": "mptfbemb59lv",
+        "name": "Rajlaxmi mishra",
+        "email": "172612068",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "rajlaxmi068"
+    },
+    {
+        "id": "mptfboyl6z2i",
+        "name": "Aman sharma",
+        "email": "172612069",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "aman069"
+    },
+    {
+        "id": "mptfbzza5eu4",
+        "name": "Kartikey gupta",
+        "email": "172612070",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "kartikey070"
+    },
+    {
+        "id": "mptfcb5knzv6",
+        "name": "Prashant gurjar",
+        "email": "172612071",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "prashant071"
+    },
+    {
+        "id": "mptfcl9g5ptz",
+        "name": "Shalni",
+        "email": "172612072",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "shalini072"
+    },
+    {
+        "id": "mptfd1setgw9",
+        "name": "Dev tomar",
+        "email": "172612073",
+        "batchId": "mpf8lfvkcjdj",
+        "active": "true",
+        "password": "dev073"
+    },
+    {
+        "id": "mptfdfq70xb0",
+        "name": "Dheeraj Kushwah",
+        "email": "162612074",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "dheeraj074"
+    },
+    {
+        "id": "mptfdvcord5p",
+        "name": "Baldev Singh",
+        "email": "162612075",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "baldev075"
+    },
+    {
+        "id": "mptfe5krr683",
+        "name": "Nitin Kushwah",
+        "email": "162612076",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "nitin076"
+    },
+    {
+        "id": "mptfeh6br1ic",
+        "name": "Gauri Budholiya",
+        "email": "162612077",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "gauri077"
+    },
+    {
+        "id": "mptferdw40oj",
+        "name": "Lavkush Trivedi",
+        "email": "162612078",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "lavkush078"
+    },
+    {
+        "id": "mptff4ldlou5",
+        "name": "Mayank Uikey",
+        "email": "162612079",
+        "batchId": "mpf8lvjd8x6n",
+        "active": "true",
+        "password": "mayank079"
+    },
+    {
+        "id": "mptffj7amwkt",
+        "name": "Kalp agrawal",
+        "email": "152610080",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "kalp080"
+    },
+    {
+        "id": "mptffubq89oe",
+        "name": "Darshita Bhadoriya",
+        "email": "152610081",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "darshita081"
+    },
+    {
+        "id": "mptfg4fmmls1",
+        "name": "Nikhil Pal",
+        "email": "152610082",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "nikhil082"
+    },
+    {
+        "id": "mptfgfpmh504",
+        "name": "Swastie Sharma",
+        "email": "152610083",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "swastie083"
+    },
+    {
+        "id": "mptfgrwzmdfr",
+        "name": "Krishna savita",
+        "email": "152610084",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "krishna084"
+    },
+    {
+        "id": "mptfhdd6o1jf",
+        "name": "Divyanshi Singh Kushwah",
+        "email": "152610085",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "divyanshi085"
+    },
+    {
+        "id": "mptfjn1n4v9f",
+        "name": "Pranav pandya",
+        "email": "152610086",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "pranav086"
+    },
+    {
+        "id": "mptfjxj0jmjr",
+        "name": "Mohit Singh Bhadoriya",
+        "email": "152610087",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "mohit087"
+    },
+    {
+        "id": "mptfk9xbq1pu",
+        "name": "Ayush Chauhan",
+        "email": "152610088",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "ayush088"
+    },
+    {
+        "id": "mptfklhwhitk",
+        "name": "Aditya Tomar",
+        "email": "152610089",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "aditya089"
+    },
+    {
+        "id": "mptfkydb1j6e",
+        "name": "Adityaraj Tripathi",
+        "email": "152610090",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "adityaraj090"
+    },
+    {
+        "id": "mptfl8z7tbm2",
+        "name": "Vansh Raj Sahu",
+        "email": "152610091",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "vansh091"
+    },
+    {
+        "id": "mptflj4dqawi",
+        "name": "Neha Kushwah",
+        "email": "152610092",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "neha092"
+    },
+    {
+        "id": "mptflt43c410",
+        "name": "Ayush bhadoriya",
+        "email": "152610093",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "ayush093"
+    },
+    {
+        "id": "mptfm2vjcaqs",
+        "name": "Anushka modi",
+        "email": "152610094",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "anushka094"
+    },
+    {
+        "id": "mptfmfpzu9lc",
+        "name": "Jaiveer yadav",
+        "email": "152610095",
+        "batchId": "mpf8mi1kdw37",
+        "active": "true",
+        "password": "jaiveer095"
+    },
+    {
+        "id": "mptfn6zh4gzk",
+        "name": "Dishant Soni",
+        "email": "152609096",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "dishant096"
+    },
+    {
+        "id": "mptfnquavkp1",
+        "name": "Ritika",
+        "email": "152609097",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "ritika097"
+    },
+    {
+        "id": "mptfoorkzwbg",
+        "name": "Abhay Rathore",
+        "email": "152609098",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "abhay098"
+    },
+    {
+        "id": "mptfoyu2zx4y",
+        "name": "Abhishek Kushwah",
+        "email": "152609099",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "abhishek099"
+    },
+    {
+        "id": "mptfpdl3rfr8",
+        "name": "Manroop kaur",
+        "email": "152609100",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "manroop100"
+    },
+    {
+        "id": "mptfpp75347q",
+        "name": "Ishant Mahor",
+        "email": "152609101",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "ishant101"
+    },
+    {
+        "id": "mptfpzfolr65",
+        "name": "Rudra Sharma",
+        "email": "152609102",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "rudra102"
+    },
+    {
+        "id": "mptfq91hhlgl",
+        "name": "Adrika Bhadauriya",
+        "email": "152609103",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "adrika103"
+    },
+    {
+        "id": "mptfqkwt262a",
+        "name": "Pawani Bhargava",
+        "email": "152609104",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "pawani104"
+    },
+    {
+        "id": "mptfqylvzt4s",
+        "name": "Jayash agarwal",
+        "email": "152609105",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "jayash105"
+    },
+    {
+        "id": "mptfranp8aoe",
+        "name": "Aadish jain",
+        "email": "152609106",
+        "batchId": "mpf8mm5qdkpy",
+        "active": "true",
+        "password": "aadish106"
+    },
+    {
+        "id": "mptfrmu500s6",
+        "name": "Rajan Sharma",
+        "email": "172613107",
+        "batchId": "mpf8mdqx8ov3",
+        "active": "true",
+        "password": "rajan107"
+    },
+    {
+        "id": "mptfsc9u631r",
+        "name": "Himanshu singh Rajawat",
+        "email": "172613108",
+        "batchId": "mpf8mdqx8ov3",
+        "active": "true",
+        "password": "himanshu108"
+    },
+    {
+        "id": "mptftvtdqgke",
+        "name": "Anshul dhakar",
+        "email": "172613109",
+        "batchId": "mpf8mdqx8ov3",
+        "active": "true",
+        "password": "anshul109"
+    },
+    {
+        "id": "mptfu61v6gft",
+        "name": "Suryansh gaud",
+        "email": "172613110",
+        "batchId": "mpf8mdqx8ov3",
+        "active": "true",
+        "password": "suryansh110"
+    },
+    {
+        "id": "mptfufaax1u2",
+        "name": "Laxmi jadon",
+        "email": "172613111",
+        "batchId": "mpf8mdqx8ov3",
+        "active": "true",
+        "password": "laxmi111"
+    },
+    {
+        "id": "mptfuqpey50a",
+        "name": "Abhi Parashar",
+        "email": "162613112",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "abhi112"
+    },
+    {
+        "id": "mptfvnu0898n",
+        "name": "Kundan gautam",
+        "email": "162613113",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "kundan113"
+    },
+    {
+        "id": "mptfvwqc5v53",
+        "name": "Badal gautam",
+        "email": "162613114",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "badal114"
+    },
+    {
+        "id": "mptfw5ya8xf5",
+        "name": "Abhishek gautam",
+        "email": "162613115",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "abhishek115"
+    },
+    {
+        "id": "mptfwf6p583t",
+        "name": "Dhirendra Singh Bhadoriya",
+        "email": "162613116",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "dhirendra116"
+    },
+    {
+        "id": "mptfwqkv1hd7",
+        "name": "Aniket narwariya",
+        "email": "162613117",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "aniket117"
+    },
+    {
+        "id": "mptfx1dr497x",
+        "name": "Devjeet singh kushwah",
+        "email": "162613118",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "devjeet118"
+    },
+    {
+        "id": "mptfxar9l9s7",
+        "name": "Shivendra Singh Rajawat",
+        "email": "162613119",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "shivendra119"
+    },
+    {
+        "id": "mptfxjmrxa9q",
+        "name": "Neha rawat",
+        "email": "162613120",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "neha120"
+    },
+    {
+        "id": "mptfxszrjfff",
+        "name": "Gauri pal",
+        "email": "162613121",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "gauri121"
+    },
+    {
+        "id": "mptfy28mcp1n",
+        "name": "Ragini Savita",
+        "email": "162613122",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "ragini122"
+    },
+    {
+        "id": "mptfyblqa3ab",
+        "name": "Shreya Gupta",
+        "email": "162613123",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "shreya123"
+    },
+    {
+        "id": "mptfyl8veex2",
+        "name": "Ananya Sain",
+        "email": "162613124",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "ananya124"
+    },
+    {
+        "id": "mptfywiyzbau",
+        "name": "Rihaj Khan",
+        "email": "162613125",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "rihaj125"
+    },
+    {
+        "id": "mptfz69d03ah",
+        "name": "Muskan Garg",
+        "email": "162613126",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "muskan126"
+    },
+    {
+        "id": "mptfzgrl3ndp",
+        "name": "Vaishnavi rai",
+        "email": "162613127",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "vaishnavi127"
+    },
+    {
+        "id": "mptfzs08rt1g",
+        "name": "Swati maurya",
+        "email": "162613128",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "swati128"
+    },
+    {
+        "id": "mptg033arvqa",
+        "name": "Shrasti sahu",
+        "email": "162613129",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "shrasti129"
+    },
+    {
+        "id": "mptg0k5698ww",
+        "name": "Anukalp tiwari",
+        "email": "162613130",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "anukalp130"
+    },
+    {
+        "id": "mptg47mlrsys",
+        "name": "Divya kaushal",
+        "email": "162613131",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "divya131"
+    },
+    {
+        "id": "mptg4k22fq9k",
+        "name": "Vineet Kumar",
+        "email": "162613132",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "vineet132"
+    },
+    {
+        "id": "mptg4su833ku",
+        "name": "Minakshi Ojha",
+        "email": "162613133",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "minakshi133"
+    },
+    {
+        "id": "mptg546ij3af",
+        "name": "Nirmalika pawaiya",
+        "email": "162613134",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "nirmalika134"
+    },
+    {
+        "id": "mptg5eygv4zi",
+        "name": "Anushka jain",
+        "email": "162613135",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "anushka135"
+    },
+    {
+        "id": "mptg5o6e9rpd",
+        "name": "Ajay kushwah",
+        "email": "162613136",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "ajay136"
+    },
+    {
+        "id": "mptg5woh1g3q",
+        "name": "Mohan Singh yadav",
+        "email": "162613137",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "mohan137"
+    },
+    {
+        "id": "mptg66mayp63",
+        "name": "Anvesha Sadhya",
+        "email": "162613138",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "anvesha138"
+    },
+    {
+        "id": "mptg6jlvp2zs",
+        "name": "Girraj jaat",
+        "email": "162613139",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "giraj139"
     }
 ],
 
