@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 01/06/2026, 15:33:30
+//  Generated: 02/06/2026, 13:27:49
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -990,7 +990,7 @@ const DB = {
         "id": "mptfuqpey50a",
         "name": "Abhi Parashar",
         "email": "162613112",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "abhi112"
     },
@@ -998,7 +998,7 @@ const DB = {
         "id": "mptfvnu0898n",
         "name": "Kundan gautam",
         "email": "162613113",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "kundan113"
     },
@@ -1006,7 +1006,7 @@ const DB = {
         "id": "mptfvwqc5v53",
         "name": "Badal gautam",
         "email": "162613114",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "badal114"
     },
@@ -1014,7 +1014,7 @@ const DB = {
         "id": "mptfw5ya8xf5",
         "name": "Abhishek gautam",
         "email": "162613115",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "abhishek115"
     },
@@ -1086,7 +1086,7 @@ const DB = {
         "id": "mptfyl8veex2",
         "name": "Ananya Sain",
         "email": "162613124",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "ananya124"
     },
@@ -1094,7 +1094,7 @@ const DB = {
         "id": "mptfywiyzbau",
         "name": "Rihaj Khan",
         "email": "162613125",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "rihaj125"
     },
@@ -1118,7 +1118,7 @@ const DB = {
         "id": "mptfzs08rt1g",
         "name": "Swati maurya",
         "email": "162613128",
-        "batchId": "mpf8m5xgxy9t",
+        "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "swati128"
     },
@@ -1253,6 +1253,110 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mpwchn7mjlko",
+        "title": "30 May 2026 IIT JEE Excel-2 (Maths - Matrix L-9)",
+        "subject": "Maths",
+        "ytId": "1Zy3Fjt0x5HyayYzqqtQwPwp1SCMQ76uZ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwch87sgyuv",
+        "title": "30 May 2026 IIT JEE Excel-2 (Chemistry - p block elements L-5)",
+        "subject": "Chemistry",
+        "ytId": "1vrUAo9TJI8pBiScxqXI3DTz7erQ90VXQ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwcchsamvtl",
+        "title": "29 May 2026 IIT JEE Excel-2 (Math - Matrix L-8)",
+        "subject": "Maths",
+        "ytId": "1Augvt7SHfb5M9PpSml2Dm3mtMM1ij9Dj",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwcc2te5m9h",
+        "title": "29 May 2026 IIT Excel-2 (Chemistry - P block elements L-4))",
+        "subject": "Chemistry",
+        "ytId": "16ABCDKtQC3TyziGpWVjzKlOOtfqW8ZoX",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwcbjmoky1i",
+        "title": "27 May 2026 IIT JEE Excel-2 (Maths - Matrix L-7)",
+        "subject": "Maths",
+        "ytId": "1-ds9elWAdKvXTgPj-LWxO1o8WXaKJ2On",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwcb4fw5ni2",
+        "title": "27 May 2026 IIT JEE Excel-2 (Chemistry - P block elements L-3)",
+        "subject": "Chemistry",
+        "ytId": "1sHiY9xh5AtAm9XPCm4Gk-BvV2B3B5GOg",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwb102dmj4l",
+        "title": "30 May 2026 IIT JE Growth-1 (Maths - Fundamental of Mathematics (L-2)",
+        "subject": "Maths",
+        "ytId": "1cR8961TvDNMySIOJ1d40lqFfLfJj4g0V",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwb0l5o6ak2",
+        "title": "27 May 2026 IIT JEE Growth-1  (Chemistry - Atomic Structure (L-3))",
+        "subject": "Chemistry",
+        "ytId": "1dzTi9jztrmGJQa_RyLGx2AIb6ESndIfp",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwawikdfoyi",
+        "title": "30 May 2026 Dropper NEET-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "1gMNEv-U8p_pGrk9cQuuHFjV3kO8NgVYU",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwaw5kuy4wh",
+        "title": "30 May 2026 Drooper NEET-1 (Botany)",
+        "subject": "Botany",
+        "ytId": "1wfi4h0vSfGRamEA1gFD2wGXzG_rCkT0X",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwavlqf83by",
+        "title": "29 May 2026 Dropper NEET-1 (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1Kbk2cmkbUh_OBUgj4kq_rgE_LdCl4EAV",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwav5brpn6e",
+        "title": "29 May 2026 Dropper NEET-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "1jjKLeJ-EQwOSznfemGnFih_u1jbpwa1f",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-02"
+    },
+    {
+        "id": "mpwaun1dhix8",
+        "title": "29 May 2026 Dropper NEET-1 (Chemistry)",
+        "subject": "Chemistry",
+        "ytId": "18dL5HZVEuAkte7CvPELzkbzmeRgMWvyU",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-02"
+    },
     {
         "id": "mprxp1tqv191",
         "title": "29 May 2026 NEET Growth-1 )(Botany (Cell The unit of Life (L-3))",
