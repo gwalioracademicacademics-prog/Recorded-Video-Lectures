@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 02/06/2026, 13:27:49
+//  Generated: 03/06/2026, 18:51:49
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1253,6 +1253,78 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mpxy7pzyisku",
+        "title": "22 May 2026 NEET Dropper 2 Hindi (Chemistry)",
+        "subject": "Chemistry",
+        "ytId": "1evTxiHK1uuvRbR5SNJUSM3DPMuB64ss0",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxy77zw4htx",
+        "title": "21 May 2026 NEET Dropper 2 Hindi (Physics)",
+        "subject": "Physics",
+        "ytId": "1qdvVDyyqrK7MIBZc7JnsUs5DnPfBgGQC",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxy6is2t0gn",
+        "title": "21 May 2026 NEET Dropper 2 Hindi (Botany)",
+        "subject": "Botany",
+        "ytId": "139JBniPsw66fLhsVGUeqRzsjz-_cjyGY",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxubvay9pe3",
+        "title": "30 May 2026 Foundation Adapt-1 (Biology)",
+        "subject": "Biology",
+        "ytId": "1MJnhaS5RFOoAgMKFtt4OgYF5WB2F8Y2b",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxub7rq7l9j",
+        "title": "21 May 2026 Foundation Adapt-1 (Chemistry)",
+        "subject": "Chemmistry",
+        "ytId": "1K68D_xwRdjSDZ9bhwoaIfaay1ilU1Fu3",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxu6y9lfthk",
+        "title": "22 May 2026 Foundation Elevate-1 (Maths)",
+        "subject": "Maths",
+        "ytId": "1bMzot4QpgFThhg5vMI3bvvmpLrtHa0sp",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxu6hp9ak87",
+        "title": "19 May 2026 Foundation Elevate-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "1GpswlfyH7Xdw9vDLmIVRh0SrZs1FpZ6Y",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxu5ts43llv",
+        "title": "19 May 2026 Foundation Elevate-1 (Maths)",
+        "subject": "Maths",
+        "ytId": "1SV2dAdXbJjDwanRw3TGY7gskhlYtqqNx",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-03"
+    },
+    {
+        "id": "mpxu5a9t94up",
+        "title": "19 May 2026 Foundation Elevate-1 (Biology)",
+        "subject": "Biology",
+        "ytId": "1SnuKaVOGqcRvCO-pGHB7nZdpNxtPilZd",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-03"
+    },
     {
         "id": "mpwchn7mjlko",
         "title": "30 May 2026 IIT JEE Excel-2 (Maths - Matrix L-9)",
