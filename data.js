@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 05/06/2026, 11:15:46
+//  Generated: 05/06/2026, 15:12:38
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -432,7 +432,7 @@ const DB = {
         "email": "162611043",
         "batchId": "mpf8m00h475g",
         "active": "true",
-        "password": "saniya043"
+        "password": "sanjay043"
     },
     {
         "id": "mprygtfh61yk",
@@ -1257,10 +1257,74 @@ const DB = {
         "batchId": "mpf8m00h475g",
         "active": "true",
         "password": "Ichchha146"
+    },
+    {
+        "id": "mq0istcfaknj",
+        "name": "Chhavi pal",
+        "email": "162611145",
+        "batchId": "mpf8m00h475g",
+        "active": "true",
+        "password": "chhavi145"
     }
 ],
 
   lectures: [
+    {
+        "id": "mq0pkilzlwu3",
+        "title": "30 May 2026 NEET Excel-1 (Zoology - Evolution Lecture 15)",
+        "subject": "Zoology",
+        "ytId": "1u2t0OIjKadLesWU-Vac5DfLDvjvlYDVz",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0pk1d5b08u",
+        "title": "30 May 2026 NEET Excel-1 (Physics - Magnetic Effect of Current - Lecture 5)",
+        "subject": "Physics",
+        "ytId": "164wPNyi1MoAMcA3VLt9e7HT3QAeapdqb",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0pjksfgqle",
+        "title": "29 May 2026 NEET Excel-1 (Zoology - Evolution  -Lecture 14)",
+        "subject": "Zoology",
+        "ytId": "15NoBOzgHFEa9gWz-xD2HQnGqrUbBcl2R",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0pj6619lwa",
+        "title": "29 May 2026 NEET Excel-1 (Botany - Genetics Lecture 3)",
+        "subject": "Botany",
+        "ytId": "1VGt9iSOYPdXZZxKYTIQq5BI3Jmbcbakh",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0pinub91an",
+        "title": "27 May 2026 NEET Excel-1 )(Physics - Magnetic Effects of Current Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1o7WTskpfC-endmeQ59wN_--7P2lcH88u",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0pi5wid1gh",
+        "title": "27 May 2026 NEET Excel-1 (Zoology - Evolution Lecture12)",
+        "subject": "Zoology",
+        "ytId": "1uo6NnVGAXQ6RgOY-1hBofMk6F4UkYoyM",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
+    {
+        "id": "mq0phqll2ocn",
+        "title": "27 May 2026 NEET Excel-1 (Botany - Genetic Lecture 2 )",
+        "subject": "Botany",
+        "ytId": "12AFRCzDQhfE0LU-W46rLnw3PR2O6u1b7",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-05"
+    },
     {
         "id": "mpxy7pzyisku",
         "title": "22 May 2026 NEET Dropper 2 Hindi (Chemistry)",
@@ -1721,7 +1785,7 @@ const DB = {
         "id": "mpqhrygfsebx",
         "title": "15 May 2026 Adapt (Maths)",
         "subject": "Maths",
-        "ytId": "1SBJF3eaWA6_XyrMSc16QrEnE9dnMCQ3j",
+        "ytId": "1FK4N0WzxYP9pckhQkeyYyyRVNT5dsiMz",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
@@ -1729,14 +1793,14 @@ const DB = {
         "id": "mpqhqewgcbe0",
         "title": "15 May 2026 Adapt (Chemistry) Vidushi Mam",
         "subject": "Chemistry",
-        "ytId": "1FEwMRWGMeBlSOenDEGP3QmuhtI7DxSRv",
+        "ytId": "1PHeq4NyYygFPk1XzHViwJM3vjzYRMeoj",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
     {
         "id": "mpqhpyupwi5g",
-        "title": "15 May 2026 Adapt (Chemisrty) Foundation Adapt-1",
-        "subject": "Chemistry",
+        "title": "15 May 2026 Adapt (Biology) Foundation Adapt-1",
+        "subject": "Biology",
         "ytId": "1XBuKuM9MXwEbfzxakZiA0zB07kp8oOXM",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
@@ -1761,7 +1825,7 @@ const DB = {
         "id": "mpqhonfsi072",
         "title": "08 May 2026 Adapt (Maths)",
         "subject": "Maths",
-        "ytId": "159Pjc6ihAGvEMVG6D4ZQ158lk7U6Tnbh",
+        "ytId": "1g_lV-_7ochgTepeubwUB_ALBmkz6rsau",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
@@ -1769,7 +1833,7 @@ const DB = {
         "id": "mpqhnja7je1s",
         "title": "08 May 2026 Adapt (Chemistry)",
         "subject": "Chemistry",
-        "ytId": "1zjvN-45nD4mBl83pcqZGjhEyTyZNc3iF",
+        "ytId": "11nW01Pt0RK5GcLuWZGmsKlKU1FzrlbZl",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
