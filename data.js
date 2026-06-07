@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 06/06/2026, 19:35:14
+//  Generated: 07/06/2026, 10:05:30
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1281,6 +1281,14 @@ const DB = {
         "batchId": "mpf8lvjd8x6n",
         "active": "true",
         "password": "pawan148"
+    },
+    {
+        "id": "mq3aetgyqe9r",
+        "name": "Purvi Jai",
+        "email": "172611149",
+        "batchId": "mpf8lr5idez8",
+        "active": "true",
+        "password": "purvi149"
     }
 ],
 
