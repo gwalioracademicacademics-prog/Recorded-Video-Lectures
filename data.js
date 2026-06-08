@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 07/06/2026, 10:05:30
+//  Generated: 08/06/2026, 18:41:38
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1293,6 +1293,158 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mq58c7xygb57",
+        "title": "05 June 2026 NEET Growth-1 (Physics - Unit, Dimensions & Error - Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1SksUITPjOkzIq8xCwXxmwqybiRnppkO9",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58buqhwhmz",
+        "title": "05 June 2026 NEET Growth -1 (Botany - Cell The unit of Life - Lecture 6)",
+        "subject": "Botany",
+        "ytId": "1OGCbSulLDsYHyeuPep_fJzU6I9ibTp5n",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58bgdddd9w",
+        "title": "04 June 2026 NEET Growth-1 (Zoology - Structural Organization - Lecture 7)",
+        "subject": "Zoology",
+        "ytId": "1otCHVfbmlUq43fsMiMvbGfP9VrRXaJPs",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58b2lj2o2q",
+        "title": "04 June 2026 NEET Growth-1 (Physics - Unit, Dimensions & Error - Lecture 3)",
+        "subject": "Physics",
+        "ytId": "1OjtnYMTUxErTbxJbT7SywQDsw3W5bDWf",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58anoyir3i",
+        "title": "04 June 2026 NEET Growth-1 (Chemistry - Some Basic Concepts of Chemistry - Lecture 19)",
+        "subject": "Chemistry",
+        "ytId": "1nMHjQbJeZnthADYLm8Ni5iZIk_CHGSF0",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58a6ifz08c",
+        "title": "02 June 2026 NEET Growth-1 (Physics - Unit, Dimensions & Errors - Lecture 2)",
+        "subject": "Physics",
+        "ytId": "1YUTzuz8vx05XGV-X54QzMLWAXDnloJ78",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq589s9xnjpl",
+        "title": "02 June 2026 NEET Growth-1 (Chemistry - Some Basic Concepts of Chemistry - Lecture 18)",
+        "subject": "Chemistry",
+        "ytId": "1wNB4rzQ3J4HWdht7yyIjwi6n8O1xnaDX",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq589e0m19fl",
+        "title": "01 June 2026 NEET Growth-1 (Physics - Basic Maths - Lecture 18)",
+        "subject": "Physics",
+        "ytId": "1QxM_b_b2mIKj6DMxBWqQcMC3rOrpDbIW",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq58903krja5",
+        "title": "01 June 2026 NEET Growth-1 (Chemistry - Some Basic Concepts of Chemistry - Lecture 17)",
+        "subject": "Chemistry",
+        "ytId": "16Ftw8PKeVSW6mtioUJOxfZri1D8T4Mwe",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq588e2y2v7v",
+        "title": "01 June 2026 NEET Growth-1 (Botany - Cell The unit of life - Lecture 5)",
+        "subject": "Botany",
+        "ytId": "1EGV5UV9AOXBkoxp0izBG46otYoW3V8se",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq587mt4hfx2",
+        "title": "06 June 2026 IIT JEE Growth-1 (Chemistry - p-block elements Lecture 10)",
+        "subject": "Chemistry",
+        "ytId": "1sPyv4O9jJuItqq782kkfipTraEDjkLY9",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq586zg9y3id",
+        "title": "05 June 2026 IIT JEE Growth-1 (Physics - Magnetism Lecture 10)",
+        "subject": "Physics",
+        "ytId": "1rQcoX-_zzjMe3LbzWjtyEITxp18VuDAW",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq586n8m7gn2",
+        "title": "05 June 2026 IIT JEE Growth-1 (Maths - Determinants - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1tAzIWoYsYtJQR9HXwrKUSVrL49gjBuYC",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq5869ina67e",
+        "title": "05 June 2026 IIT JEE Growth-1 (Chemistry - p-block elements Lecture 9)",
+        "subject": "Chemistry",
+        "ytId": "1HzfXTgBSU_YtjuSdt7mGwOZuVNYH1fuS",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq585vf8h27a",
+        "title": "04 June 2026 IIT JEE Growth-1 (Physics - Magnetism Lecture 9)",
+        "subject": "Physics",
+        "ytId": "1O6V-GFmbmwpBY9g-xKkQMaQxlJbfn60_",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq585h3m4y1f",
+        "title": "04 June 2026 IIT JEE Growth-1 (Maths - Determinants - Lecture 2)",
+        "subject": "Maths",
+        "ytId": "16GrjnYYGljnxvRR7gR-0yod62akC35lk",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq5854ztye82",
+        "title": "04 June 2026 IIT JEE Growth-1 (Chemistry - p-block elements Lecture 8)",
+        "subject": "Chemistry",
+        "ytId": "1MgAiiB9fOSE8N2nlMnfmdPbc4XtzQIsS",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq584rjkicq5",
+        "title": "02 June 2026 IIT JEE Growth-1 (Maths - Determinants - Lecture 1)",
+        "subject": "Maths",
+        "ytId": "1W1OxTBiZAinDK5gb-muuEqH7En6o770K",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
+    {
+        "id": "mq583ffmx9vh",
+        "title": "01 June 2026 IIT JEE Growth-1 (Maths - Matrix - Lecture 10)",
+        "subject": "Maths",
+        "ytId": "1OrPxDnHTknA92LkR4MAhbpmqrXhGXwnT",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-08"
+    },
     {
         "id": "mq0pkilzlwu3",
         "title": "30 May 2026 NEET Excel-1 (Zoology - Evolution Lecture 15)",
