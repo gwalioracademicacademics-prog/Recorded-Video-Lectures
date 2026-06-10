@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 10/06/2026, 10:43:46
+//  Generated: 10/06/2026, 13:34:06
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1537,7 +1537,7 @@ const DB = {
         "id": "mpxy6is2t0gn",
         "title": "21 May 2026 NEET Dropper 2 Hindi (Botany)",
         "subject": "Botany",
-        "ytId": "139JBniPsw66fLhsVGUeqRzsjz-_cjyGY",
+        "ytId": "12cs0dfgh_p2nVZZq9T0-djXXuA7NWi9w",
         "batchId": "mpqsbvcv6bz4",
         "date": "2026-06-03"
     },
@@ -1649,7 +1649,7 @@ const DB = {
         "id": "mpwb0l5o6ak2",
         "title": "27 May 2026 IIT JEE Growth-1  (Chemistry - Atomic Structure (L-3))",
         "subject": "Chemistry",
-        "ytId": "1dzTi9jztrmGJQa_RyLGx2AIb6ESndIfp",
+        "ytId": "188PT5KFdQMJOsloEYxrLJt2DP5yT-tFQ",
         "batchId": "mpf8lr5idez8",
         "date": "2026-06-02"
     },
@@ -1977,7 +1977,7 @@ const DB = {
         "id": "mpqhrygfsebx",
         "title": "15 May 2026 Adapt (Maths)",
         "subject": "Maths",
-        "ytId": "1FK4N0WzxYP9pckhQkeyYyyRVNT5dsiMz",
+        "ytId": "1CLBQROOrkYHErxA_u-LnoG0qHoqkWd1U",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
@@ -1985,7 +1985,7 @@ const DB = {
         "id": "mpqhqewgcbe0",
         "title": "15 May 2026 Adapt (Chemistry) Vidushi Mam",
         "subject": "Chemistry",
-        "ytId": "1PHeq4NyYygFPk1XzHViwJM3vjzYRMeoj",
+        "ytId": "1vUq0yX1hVwpWJw9GOH9RXHTzJloAkg_s",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
@@ -2017,7 +2017,7 @@ const DB = {
         "id": "mpqhonfsi072",
         "title": "08 May 2026 Adapt (Maths)",
         "subject": "Maths",
-        "ytId": "1g_lV-_7ochgTepeubwUB_ALBmkz6rsau",
+        "ytId": "1fxbWx93VLObRIJZRJGSjVf8enFMXZC3x",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
@@ -2025,7 +2025,7 @@ const DB = {
         "id": "mpqhnja7je1s",
         "title": "08 May 2026 Adapt (Chemistry)",
         "subject": "Chemistry",
-        "ytId": "11nW01Pt0RK5GcLuWZGmsKlKU1FzrlbZl",
+        "ytId": "1C37SHhd4sMUkrXq2193uo3lLkI5rlJd9",
         "batchId": "mpf8mm5qdkpy",
         "date": "2026-05-29"
     },
