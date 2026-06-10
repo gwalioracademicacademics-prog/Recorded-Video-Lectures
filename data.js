@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 10/06/2026, 15:21:03
+//  Generated: 10/06/2026, 19:23:15
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1309,6 +1309,62 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mq84pe8g08c5",
+        "title": "02 June 2026 NEET Excel-1 (Botany - Genetics - Lecture 5)",
+        "subject": "Botany",
+        "ytId": "1Pc03w1EXzJRZAfgFFwK006xHVUdJ-IJt",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84p0iy9fec",
+        "title": "02 June 2026 NEET Excel-1 (Botany - Genetics - Lecture 7)",
+        "subject": "Botany",
+        "ytId": "1BccIExpCwp8qNJonGZGF98MB1_P0MxoP",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84oo1v1qib",
+        "title": "02 June 2026 NEET Excel-1 (Physics - Magnetic Effects of Current Lecture 7)",
+        "subject": "Physics",
+        "ytId": "1cwGyIjwKh5S9cSiRH3A444anwaLDifs2",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84nxjqklv7",
+        "title": "04 June 2026 NEET Excel-1 (Physics - Magnetic Effects of Current Lecture 8)",
+        "subject": "Physics",
+        "ytId": "1q6olohMqCHbEPHq-6XIgbsRrdyyLsf7r",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84ng7no48g",
+        "title": "04 June 2026 NEET Excel-1 (Zoology -Evolution - Lecture 16)",
+        "subject": "Zoology",
+        "ytId": "195VpBSH0cB1ApnLcqiiWQANtYpdYYcIx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84n1dvvp15",
+        "title": "05 June 2026 NEET Excel-1 (Chemistry-Coordination Compounds - Lecture 7)",
+        "subject": "Chemistry",
+        "ytId": "1iRtemm1Ii0T0svbZ2VLK3GyTlC232IP8",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq84mkjuqv5a",
+        "title": "05 June 2026 NEET Excel-1 (Zoology -Evolution - Lecture 17)",
+        "subject": "Zoology",
+        "ytId": "19eQH0JJbAVgiDp48WQBWFZxzTE6Eq3MZ",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-10"
+    },
     {
         "id": "mq7vl19kwbfi",
         "title": "22 May 2026 - NEET Conquer-1 (Botany - Biological Classification)",
