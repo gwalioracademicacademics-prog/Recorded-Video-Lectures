@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 10/06/2026, 13:34:06
+//  Generated: 10/06/2026, 15:21:03
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1309,6 +1309,62 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mq7vl19kwbfi",
+        "title": "22 May 2026 - NEET Conquer-1 (Botany - Biological Classification)",
+        "subject": "Botany",
+        "ytId": "1ZZ9CGEsXcYHeuGamZf2HIYW_ksZwL3xX",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7vklpfu9tn",
+        "title": "22 May 2026 NEET Conquer-1 (Physics - Basic Math - Lecture-1)",
+        "subject": "Physics",
+        "ytId": "1FbcsuNDcDacw96fH90eJinaC77g4B8LT",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7vk4ppf1va",
+        "title": "22 May 2026 NEET Conquer-1 (Zoology - Animal Kingdom)",
+        "subject": "Zoology",
+        "ytId": "1JcaYfJzFxdrhD36SafW43gyBTXDcpE5-",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7vjq7x6zw2",
+        "title": "25 May 2026 NEEConquer-1 (Botany - Cell The unit of life - Lecture 2)",
+        "subject": "Chemistry",
+        "ytId": "1mHWqcTJ8pUWZPk0c9SNz1AQhuk745S-d",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7v5uu3w3r0",
+        "title": "08 June 2026 IIT JEE Conquer-1 (Maths Quadratic Equation)",
+        "subject": "Maths",
+        "ytId": "1ejGQUNYCMj8U3C82S1t5Z3SkUEL73hyv",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7v5ej5gqi4",
+        "title": "09 June 2026 IIT-JEE Conquer-1 (Maths - Quadratic Equation - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1D6xWIVqLQ3WiZ3NWGK95kl9M6CxmyAjy",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-06-10"
+    },
+    {
+        "id": "mq7v4ve4jp7h",
+        "title": "19 May 2026 IIT JEE Conquer-1 (Maths - Fundamental of Mathematics - Lecture 1)",
+        "subject": "Maths",
+        "ytId": "1kp39O1TTepJfQNdelvMuYjOQ58lv_XFE",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-06-10"
+    },
     {
         "id": "mq58c7xygb57",
         "title": "05 June 2026 NEET Growth-1 (Physics - Unit, Dimensions & Error - Lecture 4)",
