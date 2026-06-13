@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 13/06/2026, 12:31:30
+//  Generated: 13/06/2026, 17:30:40
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1333,6 +1333,78 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqcb09k828r7",
+        "title": "08 June 2026 NEET Dropper-1 (Chemistry - Atomic Structure Lecture-1)",
+        "subject": "Chemistry",
+        "ytId": "1vnacjX6z4qNIGbVyCawVeR1myeZRDes1",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcazv59uzrl",
+        "title": "08 June 2026 NEET Dropper-1 (Zoology Structural Organization Lecture-1)",
+        "subject": "Zoology",
+        "ytId": "1wWttjXnYJbPHQcCrb_i-PlGj__Znd2e_",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcazigagh4k",
+        "title": "09 June 2026 NEET Dropper-1 (Physics - Newton's Laws of motion Lecture-1)",
+        "subject": "Physics",
+        "ytId": "1fbJggqwauq6HZiJD8V4G0C4WPC7T1SiD",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcaz4reeflx",
+        "title": "09 June 2026 NEET Dropper-1 (Zoology Structural Organization Lecture-2)",
+        "subject": "Zoology",
+        "ytId": "1NFa5eJ8wAOZTMDCZmZ_rYZ0m8vK5AasR",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcayqvp251p",
+        "title": "09 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-2)",
+        "subject": "Botany",
+        "ytId": "1N1GczF3o3xDRGxPv8aXKGvZ8Qn3upx_D",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcayd05ifyf",
+        "title": "12 June 2026 NEET Dropper-1 (Chemistry - Atomic Structure Lecture-3)",
+        "subject": "Chemistry",
+        "ytId": "1_rU5pONp_soSJa7rzeBYC0bNW5oeJgCu",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcaxwunw2v6",
+        "title": "13 June 2026 NEET Dropper-1 (Chemistry - Atomic Structure Lecture-4)",
+        "subject": "Chemistry",
+        "ytId": "1Uh_VcfKAC4e3s7CdGQ9_HLdMvglL5MsE",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcaxgkns50d",
+        "title": "13 June 2026 NEET Dropper-1 (Physics - Newton's Laws of motion Lecture-4)",
+        "subject": "Physics",
+        "ytId": "1DHZ7Qp_RM0c-unvZ7BzQlFksYb1NECTt",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-13"
+    },
+    {
+        "id": "mqcatlerpkiy",
+        "title": "13 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-4)",
+        "subject": "Botany",
+        "ytId": "1XJcqF_K8Xm-Dl8LxI6De1szLP8-Uif6F",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-13"
+    },
     {
         "id": "mqc0bl9dd242",
         "title": "02 June 2026 IIT JEE Growth-1 (Chemistry - Atomic Structure - Lecture 7)",
