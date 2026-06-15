@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 15/06/2026, 16:05:53
+//  Generated: 15/06/2026, 16:25:28
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,62 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqf3k4w4t9vh",
+        "title": "08 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-1)",
+        "subject": "Botany",
+        "ytId": "1ITX_gPlP3Vq7fPLflMAXdrKUxJwaIUDI",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3jsy1uk3t",
+        "title": "08 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-8)",
+        "subject": "Botany",
+        "ytId": "1h5o94q-jEtZUx2dThRvtye_v87j--NbX",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3jgfm6m6l",
+        "title": "08 June 2026 NEET Growth-1 (Physics - Unit, Dimenions and Errors - 5)",
+        "subject": "Physics",
+        "ytId": "17AOhUPhN12gtc6OowRQzmqUDYz0rfSJ5",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3iyhrf5og",
+        "title": "09 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-2)",
+        "subject": "Botany",
+        "ytId": "1z5kJZy_dVDWRKzA9UDtU0wM2Bkw7P9Jp",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3ifxawnin",
+        "title": "09 June 2026 NEET Growth-1 (Physics - Unit, Dimenions and Errors - 6)",
+        "subject": "Physics",
+        "ytId": "1YRDmIvz9o-8j3l2RjQv7eNxw3QLfGoI8",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3i1p8h823",
+        "title": "09 June 2026 NEET Growth-1 (Zoology - Structural Organization in Animal Lecture-10)",
+        "subject": "Zoology",
+        "ytId": "1eXV66iCT_HDBAPZ0wmXnW7pAWyyw2rCL",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
+    {
+        "id": "mqf3hkpo7x5s",
+        "title": "11 June 2026 NEET Growth-1 (Physics - Unit, Dimenions and Errors - 7)",
+        "subject": "Physics",
+        "ytId": "1H87l_Ehxaf8Vgrp15f0rKNiUGNrSuCMu",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-15"
+    },
     {
         "id": "mqcb09k828r7",
         "title": "08 June 2026 NEET Dropper-1 (Chemistry - Atomic Structure Lecture-1)",
