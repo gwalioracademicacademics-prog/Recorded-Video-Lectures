@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 15/06/2026, 16:25:28
+//  Generated: 16/06/2026, 18:28:03
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,22 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqgn4w0cs85n",
+        "title": "30 May 2026 Foundation Elevate (Chemistry)",
+        "subject": "Chemistry",
+        "ytId": "1kydUARwGr9ZKWXxDDiZjboZ1ABJ11Sbo",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-16"
+    },
+    {
+        "id": "mqgmwzfw44dk",
+        "title": "09 June 2026 IIT JEE Conquer-1 (Physics - Relative Motion Lecture 1)",
+        "subject": "Physics",
+        "ytId": "1z8MbZytFGEKIF0IDaJufDYr7qjgMhu3R",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-06-16"
+    },
     {
         "id": "mqf3k4w4t9vh",
         "title": "08 June 2026 NEET Growth-1 (Botany - Cell-The unit of life Lecture-1)",
