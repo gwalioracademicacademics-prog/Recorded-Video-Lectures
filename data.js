@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 16/06/2026, 18:28:03
+//  Generated: 19/06/2026, 13:56:25
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,78 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqknzxpynw9b",
+        "title": "08 June 2026 IIT JEE Excel-1 (Maths - Determinants - Lecture 4)",
+        "subject": "Maths",
+        "ytId": "1rgRlB3hkMFo-LWL8tYSXL_myiQXyrPPj",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknze4zhsqv",
+        "title": "09 June 2026 IIT JEE Excel-1 (Chemistry - p block elements Lecture 11)",
+        "subject": "Chemistry",
+        "ytId": "1xAW90APoVSSIk26L5dMTL4Wn0VKkwWmX",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknytgz8y0x",
+        "title": "09 June 2026 IIT JEE Excel-1 (Maths - Limits - Lecture 2)",
+        "subject": "Maths",
+        "ytId": "18ymG_nHNzG-U393hUrBSGx9S2LJFh3sY",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknydobpked",
+        "title": "09 June 2026 IIT JEE Excel-1 (Physics Magnetism Lecture 12)",
+        "subject": "Physics",
+        "ytId": "12TxOp6tgWo84IcRHWkIr5em0ZOJLz6u3",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknxy5znu70",
+        "title": "11 June 2026 IIT-JEE Excel-1 (Maths - Limits - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1ZUAHHTZN6zpXIXXTvN_AkjhvvbUzvXWW",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknv6t5jcoq",
+        "title": "08 June 2026 NEET Excel-1 (Botany - Genetics - Lecture 8)",
+        "subject": "Botany",
+        "ytId": "1KiVxZt_0m9UkMi3A8r5NHAeorWYNDuY5",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknuqqfwma4",
+        "title": "08 June 2026 NEET Excel-1 (Chemistry - Coordination Chemistry - Lecture 8)",
+        "subject": "Chemistry",
+        "ytId": "1K_ciWEcrVoqIL6q1rU0c-1wktu6IqTLY",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqknu8iepxp7",
+        "title": "09 June 2026 NEET Excel-1 (Chemistry - Coordination Chemistry - Lecture 9)",
+        "subject": "Chemistry",
+        "ytId": "1QP27Eq03MAWiUbXkcIEYAozCCBmi6mdK",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqkntmkpp5d5",
+        "title": "09 June 2026 NEET Excel-1 (Physics - Magnetic Effects of Current - Lecture 11)",
+        "subject": "Physics",
+        "ytId": "1UndhfH8evmpEdAFsIt7oavxURda96WDX",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-06-19"
+    },
     {
         "id": "mqgn4w0cs85n",
         "title": "30 May 2026 Foundation Elevate (Chemistry)",
