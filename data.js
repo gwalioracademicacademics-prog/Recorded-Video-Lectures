@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 19/06/2026, 13:56:25
+//  Generated: 19/06/2026, 16:20:41
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,38 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqkt2xun8j1o",
+        "title": "07 June 2026 NEET Dropper Hindi (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1Z_ogHGdcWh_Df5WFk0jZoC2ymdgrmZle",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqkqq343zwmv",
+        "title": "06 June 2026 IIT-JEE Excel-2 (Maths Determinants - Lecture 4)",
+        "subject": "Maths",
+        "ytId": "10_LOgy09d1wDnzlr7_DJi0DmgZRnMOVg",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqkqpkjj5yd0",
+        "title": "08 June 2026 IIT JEE Excel-2 (Physics - Magnetism Lecture 12)",
+        "subject": "Physics",
+        "ytId": "1850_uOk4Vp1FoDwYksZERhgRDVHzltvi",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-19"
+    },
+    {
+        "id": "mqkqo2232td3",
+        "title": "09 June 2026 IIT JEE Excel-2 (Physics - Magnetism Lecture 13)",
+        "subject": "Physics",
+        "ytId": "1AIQsqLmKXqnwglpulLNpPfAjlqKVhOge",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-19"
+    },
     {
         "id": "mqknzxpynw9b",
         "title": "08 June 2026 IIT JEE Excel-1 (Maths - Determinants - Lecture 4)",
