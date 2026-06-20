@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 20/06/2026, 18:15:29
+//  Generated: 20/06/2026, 18:44:16
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,54 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqmdodb8m1i4",
+        "title": "04 June 2026 Foundation Adapt-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "12exs5XyKr3nTMDqeOjahV9NfTD9kVXcQ",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmdnvl9qbc8",
+        "title": "04 June 2026 Foundation Adapt-1 (Reasoning)",
+        "subject": "Reasoning",
+        "ytId": "1VHma5ukuQMYInjkRtvySuUq_xdZIOedr",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmdnfpz6z36",
+        "title": "05 June 2026 Foundation Adapt-1 (Maths)",
+        "subject": "Maths",
+        "ytId": "1Fs-ykIKnmL36hdjEJ2XgGj0Pz_3JGzY3",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmdfeup4ayk",
+        "title": "08 June 2026 Foundation Adapt-1 (Maths)",
+        "subject": "Maths",
+        "ytId": "1r6DHPRqJPfYvT8j6otmKJWBpXXu1iege",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmdexkgy9iw",
+        "title": "09 June 2026 Foundation Adapt-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "1-FybXai0GPGczoiRwD2_r-3Cw18RfKMn",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmdeay32oel",
+        "title": "11 June 2026 Foundation Adapt-1 (English)",
+        "subject": "English",
+        "ytId": "1FsbUfpx-LmZNGIShRCoHsxNBSiKFnfOP",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-20"
+    },
     {
         "id": "mqmcoy7bjapt",
         "title": "01 June 2026 Foundation Elevate-1 (Maths - Polynomial)",
