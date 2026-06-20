@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 19/06/2026, 19:22:42
+//  Generated: 20/06/2026, 15:16:18
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,70 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqm6aigyq0b0",
+        "title": "13 June 2026 NEET Dropper Hindi (Physics)",
+        "subject": "Physics",
+        "ytId": "1ZnufIutF1F8vL_fDIczpNCSgxGJ6TBlP",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm623fp163m",
+        "title": "01 June 2026 NEET Dropper Hindi (Physics)",
+        "subject": "Physics",
+        "ytId": "1_ZyOYdb_NaYSa9Y1aNDaKHPdMzlyxg8b",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm61oisobz4",
+        "title": "02 Jun2 2026 NEET Dropper Hindi (Physics - Projectile Motion)",
+        "subject": "Physics",
+        "ytId": "1jGRdegGRRFS5asvo21Jdz8RjZT84MsSr",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm6172fesmy",
+        "title": "02 June 2026 NEET Dropper Hindi (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1Szcu9oejBhzYmf4coaQFb5FG7w1hVf1P",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm60ssjzzpo",
+        "title": "04 June 2026 NEET Dropper Hindi (Botany)",
+        "subject": "Botany",
+        "ytId": "1uxXUSo9FBFjtv-O5q7q7sIgvL5IU0XlS",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm60cwugrwy",
+        "title": "08 June 2026 NEET Dropper Hindi (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1hsaB3LnAsdlewJIAGC4qP9hrJCMVD_LX",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm5zw8wwg6a",
+        "title": "09 June 2026 NEET Dropper Hindi (Physics)",
+        "subject": "Physics",
+        "ytId": "1Vp5Kee5obReoXiqkxpP5ISyhvVw09uxn",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm5zh3kretx",
+        "title": "09 June 2026 NEET Dropper Hindi (Zoology)",
+        "subject": "Zoology",
+        "ytId": "1SIlOn3szwOIAUivCB4CuYq1Xmajt2wiL",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-06-20"
+    },
     {
         "id": "mqkt2xun8j1o",
         "title": "07 June 2026 NEET Dropper Hindi (Zoology)",
