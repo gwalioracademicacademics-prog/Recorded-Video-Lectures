@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 20/06/2026, 15:16:18
+//  Generated: 20/06/2026, 18:15:29
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1357,6 +1357,62 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqmcoy7bjapt",
+        "title": "01 June 2026 Foundation Elevate-1 (Maths - Polynomial)",
+        "subject": "Maths",
+        "ytId": "1YLBVwk5mmg482FWW8XSNM8G2tA4Ef5az",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmcogw65gs0",
+        "title": "02 June 2026 Foundation Elevate-1 (English)",
+        "subject": "English",
+        "ytId": "1pi_w4D2V7Tj4LTJuBrJTIf11aDNcaVDs",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmco0vd74lh",
+        "title": "02 June 2026 Foundation Elevate-1 (Maths - Polynomial)",
+        "subject": "Maths",
+        "ytId": "1VBWV9L_Xz8EBWS6Kx1ELtA8QgSAGAiT1",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmcnleuic6j",
+        "title": "09 June 2026 Foundation Elevate-1 (Maths)",
+        "subject": "Maths",
+        "ytId": "13nB1K-nHHrqEFSKtNOY73mkurwDoFAwJ",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmcn3l6o86k",
+        "title": "12 June 2026 Foundation Elevate (Maths)",
+        "subject": "Maths",
+        "ytId": "1ZxGtVRxMa9sdsb_PKwJaEKCTPhEc4sCc",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqmcmdpp385c",
+        "title": "30 May 2026 Foundation Elevate (Reasoning Chapter 3 Number system)",
+        "subject": "Reasoning",
+        "ytId": "1n4uCTCRHnVvHUkSx185DDF8PQAkSi0bN",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
+    {
+        "id": "mqm7zh2al5ja",
+        "title": "30 May 2026 Foundation Elevate (Reasoning Chapter 3 Number system)",
+        "subject": "Reasoning",
+        "ytId": "1rngEfa8YTQmAQVWHfDrmvK2GDpIOumFC",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-20"
+    },
     {
         "id": "mqm6aigyq0b0",
         "title": "13 June 2026 NEET Dropper Hindi (Physics)",
