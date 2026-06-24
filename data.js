@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 24/06/2026, 11:04:25
+//  Generated: 24/06/2026, 18:54:47
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1389,6 +1389,286 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqs3uvjqy5t4",
+        "title": "05 June 2026 Foundation Adapt-1 (Biology - Cell - Fundamental Unit of Life)",
+        "subject": "Biology",
+        "ytId": "1Us7nLdqpzhBKtnuBYYQyPVBAhr77Euhg",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3pehuce25",
+        "title": "16 June Foundation Elevate-1 (Maths - Trigonometry)",
+        "subject": "Maths",
+        "ytId": "1qO65Ndwxq3Dgq-jb854qINVtwM9YeX_y",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3p2gyj9jy",
+        "title": "16 June 2026 Foundation Elevate-1 (English)",
+        "subject": "English",
+        "ytId": "13CLjE6yRv3bbFjlyJel9qTL9VOqYiWTA",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3onxt9oac",
+        "title": "13 June 2026 Foundation Elevate-1 (Reasoning)",
+        "subject": "Reasoning",
+        "ytId": "1DpSInIzrUtKGHTpGar15rdt5dZceKCM9",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3n6mddsqz",
+        "title": "20 June 2026 IIT JEE Excel-2 (Physics - Electromagnetic Induction- Lecture 5)",
+        "subject": "Physics",
+        "ytId": "1ESN540r34s8eo3RiGxCz9urize1zwBge",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3mqygve8d",
+        "title": "20 June 2026 IIT JEE Excel-2 (Maths - Limits - Lecture 10)",
+        "subject": "Maths",
+        "ytId": "1yyCRgKbRPR-WDm0i8WQQdCs_1IgnzsEI",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3mbc55bem",
+        "title": "19 June 2026 IIT-JEE Excel-2 (Chemistry - p-block elements - Lecture 16)",
+        "subject": "Chemistry",
+        "ytId": "1qLqZAtCYNKZgiYiIUosmF6oKY1OY5aT3",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3lw3d0gqs",
+        "title": "19 June 2026 IIT JEE Excel-2 (Physics - Electromagnetic Induction- Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1kNsvSwe7ujaT6fZyuKKEO5Ok6KlFKe04",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3lgmvk2z2",
+        "title": "19 June 2026 IIT JEE Excel-2 (Maths - Limits - Lecture 9)",
+        "subject": "Maths",
+        "ytId": "1UGZFCRvg4o3_xgrgkphjFcVHIEw4Am1k",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3l2yw7qrl",
+        "title": "18 June 2026 IIT-JEE Excel-2 (Chemistry - p-block elements - Lecture 15)",
+        "subject": "Chemistry",
+        "ytId": "1MqJG9FRRmeG47VTnN_Sp6riDbI8yB8kn",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3koth17sh",
+        "title": "18 June 2026 IIT JEE Excel-2 (Physics)",
+        "subject": "Physics",
+        "ytId": "1vbJGT6BUpYvQjzOX9CCrVIbIpIo6XQ0Z",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3k9yg572x",
+        "title": "18 June 2026 IIT JEE Excel-2 (Maths - Limits - Lecture 8)",
+        "subject": "Maths",
+        "ytId": "1lQ6STdmpe7jFLbL2vK05CsZp14Mrjaa_",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3ij5oc3n1",
+        "title": "20 June 2026 IIT JEE Growth-1 (Physics - Unit and Measurement - Lecture 5)",
+        "subject": "Physics",
+        "ytId": "1i0VUOjZk8j4DtoPyDpSkRD4Lw_Ezrw5y",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3i3ztwsv8",
+        "title": "20 June 2026 IIT JEE Growth-1 (Maths - Logarithm Lecture 5)",
+        "subject": "Maths",
+        "ytId": "1ci3h8F-VF4MaosherqAazgPaSqJb_cbp",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3hqaav2br",
+        "title": "20 June 2026 IIT JEE Growth-1 (Chemistry - Atomic Structure Lecture 17)",
+        "subject": "Chemistry",
+        "ytId": "1nUTk82PrwWwzPKA2O-aECSTATAm8t5B9",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3h74nik43",
+        "title": "19 June 2026 IIT JEE Growth-1 (Physics -Unit and Measurement - Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1wAs31XQIIAosP17NzHrGcRYQfa5wKtZr",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3gqc00xy3",
+        "title": "19 June 2026 IIT JEE Growth-1 (Maths - Logarithm Lecture 4)",
+        "subject": "Maths",
+        "ytId": "18Jxt9ihkUw9aRlJYrBPzM1xrefvDhrx_",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3g9ubl1lr",
+        "title": "19 June 2026 IIT JEE Growth-1 (Chemistry - Atomic Structure Lecture 16)",
+        "subject": "Chemistry",
+        "ytId": "1y_RO3DYi_stp4oGliqnS_vJrhpsH8HlB",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3fv03t6sg",
+        "title": "18 June 2026 IIT JEE Growth-1 (Physics Unit and Measurement - Lecture 3)",
+        "subject": "Physics",
+        "ytId": "1XpEls4QQUfV5iO3bGcmwXHnZBZQI10hq",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3fhdct37k",
+        "title": "18 June 2026 IIT JEE Growth-1 (Chemistry -  Atomic Structure Lecture 15)",
+        "subject": "Chemistry",
+        "ytId": "12abH611dXLs2GaE3Qbfby9ZP_u9aaTfV",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3bcblzj8o",
+        "title": "22 June 2026 NEET Conquer-1 (Zoology - Structural Organization - Lecture 8)",
+        "subject": "Zoology",
+        "ytId": "168fCG_3s4w58OyVNgZdMe0qh6jQ5nD5Z",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3a2immsyh",
+        "title": "22 June 2026 NEET Conquer-1 (Botany - Cell The unit of life - Lecture 9)",
+        "subject": "Botany",
+        "ytId": "10DkT7RUfvfbMITCCr582z7UrWqb6h2rr",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs39izqtabv",
+        "title": "19 June 2026 NEET Conquer-1 (Zoology - Structural Organization - Lecture 7)",
+        "subject": "Zoology",
+        "ytId": "10vVjkT3bTrZkUnGv1jbSYZyP7D-XqZjz",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs391g93lbn",
+        "title": "19 June 2026 NEET Conquer-1 (Physics - Newton's Laws of Motion - Lectrure 8)",
+        "subject": "Physics",
+        "ytId": "1_j2ZtEk4MjdTvFuF1l7JZVHmb9rWhkfz",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs38linm0z5",
+        "title": "19 June 2026 NEET Conquer-1 (Chemistry - Atomic Structure - Lecture 8)",
+        "subject": "Chemistry",
+        "ytId": "1G3KREQuoNPr69LJedcWRA4qrcvPiZhvp",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs384ftkjbj",
+        "title": "18 June 2026 NEET Conquer-1 (Physics - Newton's Laws of Motion - Lecture 7)",
+        "subject": "Physics",
+        "ytId": "1Ee6C9PwFlpHaYwoCjTPkrPPk8TW_Fzpf",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs37nvj2592",
+        "title": "18 June 2026 NEET Conquer-1 (Chemistry - Atomic Structure - Lecture 7)",
+        "subject": "Chemistry",
+        "ytId": "1-dTOm8iMreRyi6nMmkpgAI29MIzu_eUi",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs377l4f4k9",
+        "title": "18 June 2026 NEET Conquer-1 (Botany - Cell The unit of Life - Lecture - 7)",
+        "subject": "Botany",
+        "ytId": "1aLXgBZO_obS7reFPspuoG6kE9lp_63QI",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs34jkt53br",
+        "title": "22 June 2026 NEET Growth-1 (Physics - Unit and Dimensions - Lecture 9)",
+        "subject": "Physics",
+        "ytId": "1nVN9pGKOOrDBl4fwflW9lPbUO16R3ls-",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs3439bo9xr",
+        "title": "22 June 2026 NEET Growth-1 (Chemistry - Atomic Structure - Lecture 5)",
+        "subject": "Chemistry",
+        "ytId": "1ouoCkl2N-VgjNhQWBXUilOdOyn3OLtTx",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs33oc9orfy",
+        "title": "19 June 2026 NEET Growth-1 (Zoology - Structural Organization - Lecture 15)",
+        "subject": "Zoology",
+        "ytId": "1WkzsUwzRgn7800YX26LBrD2WjHE0p3Jz",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs338bvb77t",
+        "title": "19 June 2026 NEET Growth-1 (Physics - Motion in Straight Line - Lecture 2)",
+        "subject": "Physics",
+        "ytId": "1BPMtGhkDr1QqI6ywdKQqowXsb2G8gR_u",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs32olvyxlj",
+        "title": "19 June 2026 NEET Growth-1 (Botany - Cell The unit of life Lecture 12)",
+        "subject": "Botany",
+        "ytId": "1s2ZxbbX5NuICBBoskCtTcNCvVEQmvLNC",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs31fs9eiws",
+        "title": "18 June 2026 NEET Growth-1 (Zoology - Structural Organization - Lecture 15)",
+        "subject": "Zoology",
+        "ytId": "1XDWHQR0M_FXW5Lt2bwOFZ0GEk3YLSbV_",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
+    {
+        "id": "mqs30wt4zcik",
+        "title": "18 June 2026 NEET Growth-1 (Physics - Unit and Dimension - Lecture 11)",
+        "subject": "Physics",
+        "ytId": "1wME0mZY9pJHHKwqsifSXLW0CKrT7HiMs",
+        "batchId": "mpf8m00h475g",
+        "date": "2026-06-24"
+    },
     {
         "id": "mqqow5c1tb13",
         "title": "16 June 2026 IIT JEE Excel-2 (Physics - Electromagnetic Induction Lecture 2)",
