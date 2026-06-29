@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 26/06/2026, 17:42:43
+//  Generated: 29/06/2026, 11:55:21
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1413,6 +1413,46 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqytwh3fxp7n",
+        "title": "23 June 2026 IIT JEE Growth-1 (Physics - Unit and Measurement - Lecture 7)",
+        "subject": "Physics",
+        "ytId": "1fpwtxQ23kjF6PJPUVkqGS5zo1Pr6iLWP",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqytw3oglco2",
+        "title": "23 June 2026 IIT JEE Growth-1 (Maths - Logarithm - Lecture 7)",
+        "subject": "Maths",
+        "ytId": "1w1JtogoyZo3vG4OeUDiapZ7bHH_u8Xut",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqytvjj5rwat",
+        "title": "22 June 2026 IIT JEE Growth-1  (Chemistry - Atomic Structural - Lecture 18)",
+        "subject": "Chemistry",
+        "ytId": "1NlbubIjhTEuuK1Tkey1KYfxpA93GbN10",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqytv4njzyxf",
+        "title": "22 June 2026 IIT JEE Growth-1 (Maths - Logarithm - Lecture 6)",
+        "subject": "Maths",
+        "ytId": "1rUwUUyEmHdcV-q-FtkPnkloL8CjddxIr",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqytup7uzmuh",
+        "title": "22 June 2026 IIT JEE Growth-1 (Physics - Unit and Measurement - Lecture 6)",
+        "subject": "Physics",
+        "ytId": "1kawlpzdzIgEIJEtAAj8FfnqtyjOZGkBF",
+        "batchId": "mpf8lr5idez8",
+        "date": "2026-06-29"
+    },
     {
         "id": "mqs3uvjqy5t4",
         "title": "05 June 2026 Foundation Adapt-1 (Biology - Cell - Fundamental Unit of Life)",
