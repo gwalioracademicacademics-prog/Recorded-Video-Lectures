@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 29/06/2026, 11:55:21
+//  Generated: 29/06/2026, 12:26:43
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1413,6 +1413,30 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqyuwokp7cpw",
+        "title": "13 June 2026 Foundation Elevate-1 (Chemistry)",
+        "subject": "Chemistry",
+        "ytId": "1EMeEtH-gfu7uCj24r0XG0v4Nwb8gWYme",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqyuvoz9pxk4",
+        "title": "08 June 2026 Foundation Adapt-1 (Chemistry)",
+        "subject": "Chemistry",
+        "ytId": "1lBfmC8hZyCh4-XZtQt2QBjffeuof_jnZ",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-29"
+    },
+    {
+        "id": "mqyus3q3bhox",
+        "title": "01June 2026 Foundation Adapt-1 (Chemistry Classification of Matter)",
+        "subject": "Chemistry",
+        "ytId": "1uLMPJ9m5qFzvpRFF5C2rH4IOyqi9VE2x",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-06-29"
+    },
     {
         "id": "mqytwh3fxp7n",
         "title": "23 June 2026 IIT JEE Growth-1 (Physics - Unit and Measurement - Lecture 7)",
