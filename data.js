@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 29/06/2026, 12:26:43
+//  Generated: 29/06/2026, 12:46:33
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1413,6 +1413,14 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mqyvwgopmcm3",
+        "title": "16 June 2026 Foundation Elevate-1 (Physics)",
+        "subject": "Physics",
+        "ytId": "1UzUWZtJHUK37Cd8BIwxP3HKb2WYl62pE",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-06-29"
+    },
     {
         "id": "mqyuwokp7cpw",
         "title": "13 June 2026 Foundation Elevate-1 (Chemistry)",
