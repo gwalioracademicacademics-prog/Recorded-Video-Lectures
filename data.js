@@ -1456,7 +1456,7 @@ const DB = {
         "email": "162612171",
         "batchId": "mpf8lvjd8x6n",
         "active": "true",
-        "password": "garima171"
+        "password": "garima123"
     }
 ],
 
