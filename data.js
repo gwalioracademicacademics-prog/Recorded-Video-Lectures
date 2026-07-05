@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 04/07/2026, 18:15:03
+//  Generated: 05/07/2026, 16:28:48
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1461,6 +1461,22 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mr7ohk1kjmzj",
+        "title": "12 June 2026 NEET Excel-1 (Chemistry - Coordination Chemistry - Lecture 10)",
+        "subject": "Chemistry",
+        "ytId": "1gRnLL8JTfDd2tNmqX6iqasqyuAJGC6Vw",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-05"
+    },
+    {
+        "id": "mr7ogwr50p7p",
+        "title": "11 June 2026 NEET Excel-1 (Physics - Magnetic Effects of Current - Lecture 12)",
+        "subject": "Physics",
+        "ytId": "1N-rd8Dc5exr2tiauHnAaaa1GOAwAEJ5Z",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-05"
+    },
     {
         "id": "mr6cu4vp81w7",
         "title": "25 June 2026 NEET Growth-1 (Chemistry - Lecture 11)",
