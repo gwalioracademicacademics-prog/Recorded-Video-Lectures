@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 07/07/2026, 15:40:37
+//  Generated: 07/07/2026, 18:36:50
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1485,6 +1485,118 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mranxw8twomh",
+        "title": "03 July 2026 NEET Conquer-1 (Zoology - Biomolecules Lecture -1 )",
+        "subject": "Zoology",
+        "ytId": "1Sz5-fUlq5csXDe_iMB9Zhy1m_9ha5nfx",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranxkb6uapq",
+        "title": "03 July 2026 NEET Conquer-1 (Physics - Work, power, Energy - Lecture 7)",
+        "subject": "Physics",
+        "ytId": "1tuQBe_Qi-2h23PttBn7ZOi6DCXu_JAKl",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranx8vimsdc",
+        "title": "02 July 2026 NEET Conquer-1 (Zoology - Structural Organization in Animal - Lecture 13)",
+        "subject": "Zoology",
+        "ytId": "16oZ8sbFYHoZfWLiFK509-oAih-UtGGho",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranwvwoc67d",
+        "title": "02 July 2026 NEET Conquer-1 (Physics - Work, power, Energy - Lecture 6)",
+        "subject": "Physics",
+        "ytId": "1o-k5f8JX_yc8-zEfXSFQgUmADda5JFrg",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranw1c8xuk7",
+        "title": "30 June 2026 NEET Conquer-1 (Zoology - Structural Organization in Animal - Lecture 12)",
+        "subject": "Zoology",
+        "ytId": "1E6rqYcUrixjvkH0lw03_5SGGIlcvlefc",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranvk8h20c5",
+        "title": "30 June 2026 NEET Conquer-1 (Physics - Work, power, Energy - Lecture 5)",
+        "subject": "Physics",
+        "ytId": "12bIQ_WXHqgIFO6E8lGZIofV3y8ikeUTn",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranv7tq5z3b",
+        "title": "30 June 2026 NEET Conquer-1 (Botany - Cell the unit of life - Lecture 14)",
+        "subject": "Botany",
+        "ytId": "1zI-rSiFX6732PokmrohqJw2ZAuZlkyOg",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranuvqze2yw",
+        "title": "29 June 2026 NEET Conquer-1 (Physics - Work, power, Energy - Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1jtwQB2PUyzeyhMGcycae_D8Jc6aEdcZp",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranujf0serd",
+        "title": "29 June 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 3)",
+        "subject": "Chemistry",
+        "ytId": "1-WQ3VFhXEVwnSpiudv2sZGFMEQTSrPrh",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranu7r4phxd",
+        "title": "27 June 2026 NEET Conquer-1 (Physics - Work, power, Energy - Lecture 2)",
+        "subject": "Physics",
+        "ytId": "1DjPeMt9BbDp9pvB9qGytE5QXQ2r02KJ4",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrantjn2xf7h",
+        "title": "27 June 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 1)",
+        "subject": "Chemistry",
+        "ytId": "1DX2neBjGpIJSf0Q0ToFkzxxdrnc9TDpI",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrant77dokvb",
+        "title": "26 June 2026 NEET Conquer-1 (Zoology - Structural Organization in Animal - Lecture 10)",
+        "subject": "Zoology",
+        "ytId": "1bT73Nv-GPu-Qgzf9R35Gh-L1cPhdt5J8",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranrzvs81s9",
+        "title": "26 June 2026 NEET Conquer-1 (Chemistry - Atomic Structure - Lecture 12)",
+        "subject": "Chemistry",
+        "ytId": "1LCN3vCJ45jMg1AD1HlhlIho3D17ye0SS",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mranrgfogic2",
+        "title": "25 June 2026 NEET Conquer-1 (Chemistry - Atomic Structure - Lecture 11)",
+        "subject": "Chemistry",
+        "ytId": "17EUpO7E3R4O1fJmzQ8Fwevdr31aSmaH-",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-07"
+    },
     {
         "id": "mrahmwzkipek",
         "title": "04 July 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 9)",
