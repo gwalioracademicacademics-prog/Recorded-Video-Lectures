@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 07/07/2026, 13:38:33
+//  Generated: 07/07/2026, 15:40:37
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1485,6 +1485,294 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mrahmwzkipek",
+        "title": "04 July 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 9)",
+        "subject": "Chemistry",
+        "ytId": "19e4lfcicU4hn9jS14FU9jsOBZCQBwjLI",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahml9tc7bs",
+        "title": "04 July 2026 NEET Excel-1 (Botany -Genetics - Lecture 24)",
+        "subject": "Botany",
+        "ytId": "1amug6HYHQn2LgQY6WayAlm0xKiVWcZDi",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahm9yvl8z6",
+        "title": "03 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 10)",
+        "subject": "Zoology",
+        "ytId": "1Zd-Jr5wDYnvIhtlFv-cFBM367VY5pQ0o",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahlwmbu8yx",
+        "title": "03 July 2026 NEET Excel-1 (Botany -Genetics - Lecture 23)",
+        "subject": "Botany",
+        "ytId": "1WxIgei72AoZBNlUYMqtNCS3H2QXQQsTo",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahljaoeycg",
+        "title": "03 July 2026 NEET Excel- 1 (Physics - Alternating Current - Lecture 5)",
+        "subject": "Physics",
+        "ytId": "1akg-5GkIYnHw09ldp6LA4-lptgdf6lln",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahl652sswb",
+        "title": "02 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 9)",
+        "subject": "Zoology",
+        "ytId": "1sP6PuuCU_BuEaWyWT0CkK6MQgviMOYdE",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahkuokktgs",
+        "title": "02 July 2026 NEET Excel-1 (Botany -Genetics - Lecture 22)",
+        "subject": "Botany",
+        "ytId": "1dd3g1ftS7wv5bEiKs1yODzKb2oRGK9x8",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahkdn8q9ic",
+        "title": "02 July 2026 NEET Excel- 1 (Physics - Alternating Current - Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1cU8nTEMNfu2OnZYk-y3m_NyfeQqoP26I",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahivxsolg7",
+        "title": "30 June 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 7)",
+        "subject": "Chemistry",
+        "ytId": "1jGXaoF2eqrQtt9_6rlqxZ1Pulx2zVLpV",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahigi9nckp",
+        "title": "30 June 2026 NEET Excel-1 (Botany -Genetics - Lecture 21)",
+        "subject": "Botany",
+        "ytId": "1l-6yvEXhc7WLOYwmvx6yoNowj1raXYec",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahhwr7j6f0",
+        "title": "30 June 2026 NEET Excel- 1 (Physics - Alternating Current - Lecture 3)",
+        "subject": "Physics",
+        "ytId": "1LizG3p5iTswh1EOmQpmBcfD6IpawF3Th",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahhk5lkhre",
+        "title": "29 June 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 2)",
+        "subject": "Physics",
+        "ytId": "1O4jWGEHdGysvfnWSHCAUHT-Nl9Yx4ZHM",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahh65q6jrs",
+        "title": "29 June 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 6)",
+        "subject": "Chemistry",
+        "ytId": "181jj7UXwqar13CqftJajzGg-NSt1y--8",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahgu1r22bs",
+        "title": "29 June 2026 NEET Excel-1 (Botany -Genetics - Lecture 20)",
+        "subject": "Botany",
+        "ytId": "1Y9QUW1AtqOX4Rh5aTokEjilZ6L3XbJ38",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahf4hez3xi",
+        "title": "26 June 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 4)",
+        "subject": "Chemistry",
+        "ytId": "1vKAONNWkU6Ntwa_j8tKfPir9bz1uDEIL",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahb5get1v3",
+        "title": "04 July 2026 IIT JEE Excel-1 (Physics - Alternating Current - Lecture-6)",
+        "subject": "Physics",
+        "ytId": "1vf0cZ4wagT7G_q8um5BkSWTPf1_F9Wji",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrahara3dz7k",
+        "title": "04 July 2026 IIT JEE Excel-1 (Maths - Continuity - Lecture 4)",
+        "subject": "Maths",
+        "ytId": "1xNgY2Y1n3jVOsqfTHCrOQGSF6OTX0-xE",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah9scbaknt",
+        "title": "03 July 2026 IIT JEE Excel-1 (Physics - Alternating Current - Lecture 5)",
+        "subject": "Physics",
+        "ytId": "1pDVJgLmFy5nnkg_LlP4-Eeot3n2hyqHk",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah95n3p9zn",
+        "title": "03 July 2026 IIT JEE Excel-1 (Maths - Continuity - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "14CgAdZPlpAlELRpAUzzLi7EiVjLv12hr",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah8sso5y06",
+        "title": "03 July 2026 IIT JEE Excel-1 (Chemistry - D& F Block - Lecture 6)",
+        "subject": "Chemistry",
+        "ytId": "1rUusXmeI3D5bqmvgI5L9BdVd8GG-OfKT",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah8g7twwwd",
+        "title": "02 July 2026 IIT JEE Excel-1 (Physics - Alternating Current - Lecture-4)",
+        "subject": "Physics",
+        "ytId": "1Q2wpRyoPfJxo9LPDx9-_O5dKj1lzxFWd",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah82mxgi3h",
+        "title": "02 July 2026 IIT JEE Excel-1 (Maths - Continuity - Lecture 2)",
+        "subject": "Maths",
+        "ytId": "1aOeKjdH34tAoTmgZWI2a7-S5LHO5AzOH",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah6a62y3wr",
+        "title": "30 June 2026 IIT JEE Excel-1 (Maths - Continuity - Lecture-1)",
+        "subject": "Maths",
+        "ytId": "1Q7oGsX0cbyY9AdNKrBPEBdRdo0Dy4gkw",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah5xile6n8",
+        "title": "29 June 2026 IIT JEE Excel-1 (Physics - Alternating Current - Lecture-2)",
+        "subject": "Physics",
+        "ytId": "1S1TFVG1vr3sXW1lP92kdzPEmyUUWEjWI",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah5jfk2fe2",
+        "title": "29 June 2026 IIT JEE Excel-1 (Maths - Limits - Lecture 16)",
+        "subject": "Maths",
+        "ytId": "1GCjvtEozOnlVf_z-4AVwSfNgeYem4kJf",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah55xfqnik",
+        "title": "27 June 2026 IIT JEE Excel-1 (Physics - Alternating Current - Lecture 1)",
+        "subject": "Physics",
+        "ytId": "1bLr7FO_umW5sw1mfPsd-kcHrb8So3-GH",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah4stdv1w1",
+        "title": "26 June 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 7)",
+        "subject": "Zoology",
+        "ytId": "1lMYptGTJidSeRfGe9CeMr0OWCMgjtWn6",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah4cehwk87",
+        "title": "26 June 2026 NEET Excel-1 (Botany - Genetics Lecture-19)",
+        "subject": "Botany",
+        "ytId": "1qSh-MpILdt225FcSGw7B9JjIKXjOYXNl",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah3xdqrhpz",
+        "title": "26 June 2026 IIT JEE Excel-1 (Physics - Electromagnetic Induction - Lecture -9)",
+        "subject": "Physics",
+        "ytId": "1UvdfHTqcrZTbqf0Y3kWSEEYy1Zv68_Xp",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah3d1sn3rh",
+        "title": "26 June 2026 IIT JEE Excel-1 (Maths - Limit - Lecture - 14)",
+        "subject": "Maths",
+        "ytId": "1LmZ3ZiiYrBWrrO_cxXDCwVlimK09K7Bv",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah2m3e97nm",
+        "title": "25 June 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 6)",
+        "subject": "Zoology",
+        "ytId": "1TurJS3z6udPP06ckgXUNSXD3hMKwKs7w",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah1s9bzy7k",
+        "title": "25 June 2026 NEET Excel-1 (Physics - Electromagnetic Induction - Lecture 7)",
+        "subject": "Physics",
+        "ytId": "1F6SvEbX2Q3fRiNXDZ5ZKiT3kPrn4Z8HB",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah1e7qz631",
+        "title": "25 June 2026 NEET Excel-1 (Botany - Genetics - Lecture - 18)",
+        "subject": "Botany",
+        "ytId": "1GMgnV3H8XKjpP2BGUzv4MzDhwToVyhgX",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah10ho4fqt",
+        "title": "25 June 2026 IIT JEE Excel-1 (Physics - Electromagnetic Induction - Lecture -8)",
+        "subject": "Physics",
+        "ytId": "12mL-T2FPBTvqfhxLzlowPEbx2DoQ502K",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah0lggr7lv",
+        "title": "25 June 2026 IIT JEE Excel-1 (Maths - Limits - Lecture 13)",
+        "subject": "Maths",
+        "ytId": "11DM8cdFIdFVm-YAgbwPcFeA2J9ikrQji",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
+    {
+        "id": "mrah05vdthj0",
+        "title": "25 June 2026 IIT JEE Excel-1 (Chemistry - p-block elements - Lecture 19)",
+        "subject": "Chemistry",
+        "ytId": "1aUqOcGGuNFa-k4rbZY32hmdJQR2f5x_3",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-07-07"
+    },
     {
         "id": "mr7ohk1kjmzj",
         "title": "12 June 2026 NEET Excel-1 (Chemistry - Coordination Chemistry - Lecture 10)",
