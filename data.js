@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 07/07/2026, 18:36:50
+//  Generated: 09/07/2026, 14:22:49
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -46,6 +46,10 @@ const DB = {
     {
         "id": "mpqsbvcv6bz4",
         "name": "NEET Conquer 2 (Hindi)"
+    },
+    {
+        "id": "mrd9qezxel9r",
+        "name": "NEET Conquer-3"
     }
 ],
 
@@ -1481,6 +1485,14 @@ const DB = {
         "batchId": "mpqsbvcv6bz4",
         "active": "true",
         "password": "prashant176"
+    },
+    {
+        "id": "mrd9qxa9t0hd",
+        "name": "Vikram Singh Jadon",
+        "email": "162613177",
+        "batchId": "mrd9qezxel9r",
+        "active": "true",
+        "password": "vikram177"
     }
 ],
 
