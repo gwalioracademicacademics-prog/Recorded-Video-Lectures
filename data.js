@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 09/07/2026, 14:40:34
+//  Generated: 09/07/2026, 16:07:00
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1521,6 +1521,62 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mrddgx234kty",
+        "title": "05 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 3)",
+        "subject": "Zoology",
+        "ytId": "1OLOaUJba2N6jIjVtUvLoLg8kZhz6mBlx",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrddgdoeroxd",
+        "title": "05 July 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 6)",
+        "subject": "Chemistry",
+        "ytId": "1yN1nGUdTn3oMvJr2JGBTCUT4EiVP9pLD",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrdcggtoiqgh",
+        "title": "05 July 2026 NEET Conquer-1 (Botany - Cell Cycle and Cell Division - Lecture 2)",
+        "subject": "Botany",
+        "ytId": "1vOy6XbnirSFo-fHs3XE--MCJEWHSIGJR",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrdcg5772xgk",
+        "title": "04 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 2)",
+        "subject": "Zoology",
+        "ytId": "1yO4IsWycnZbhBxY-uqj601k3LT6BdWlC",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrdcfrxgf0y7",
+        "title": "04 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 1)",
+        "subject": "Physics",
+        "ytId": "16t_Y32y35JlQavaK91Z1fAaBJJx34ORY",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrdcfd5it03h",
+        "title": "04 July 2026 NEET Conquer-1 (Botany - Cell Cycle and Cell Division - Lecture 1)",
+        "subject": "Botany",
+        "ytId": "1kg0s4vQKriGCsrHlkOjG5YoC3CF3sIuG",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
+    {
+        "id": "mrdcey9e43b2",
+        "title": "03 July 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 5)",
+        "subject": "Chemistry",
+        "ytId": "1KGudPNFYR0jCL3mt22Q4Ow_59MHct8e0",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-09"
+    },
     {
         "id": "mranxw8twomh",
         "title": "03 July 2026 NEET Conquer-1 (Zoology - Biomolecules Lecture -1 )",
