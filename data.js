@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 09/07/2026, 16:07:00
+//  Generated: 10/07/2026, 14:11:25
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1521,6 +1521,182 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mreos3y5v16a",
+        "title": "04 July 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 7).mp4",
+        "subject": "Physics",
+        "ytId": "1gCWFsh0tng3O3if6kQZaAqDsKb3-C07r",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreors02vfmg",
+        "title": "04 July 2026 IIT JEE Excel-2 (Maths - Continuity - Lecture 5).mp4",
+        "subject": "Maths",
+        "ytId": "1NlxCXvB66hEW9CXV4sBzdBiTADEGxV5x",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreorexnq0ff",
+        "title": "03 July 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "108pgdfmByM5YsJRfhRE_brUzKmCm8nYN",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreor0h7avr6",
+        "title": "03 July 2026 IIT JEE Excel-2 (Maths - Continuity - Lecture 4).mp4.mp4",
+        "subject": "Maths",
+        "ytId": "1EjemtShR3P15KBiNhCjOK7xS5XSUiMaq",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreoqk8hzhew",
+        "title": "03 July 2026 IIT JEE Excel-2 (Chemistry - D & F Block - Lecture -6).mp4",
+        "subject": "Chemistry",
+        "ytId": "1kuvfuCHMpuBhy8UPnOtVTtdoLPhYtN35",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreopw5dlspo",
+        "title": "02 July 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 5).mp4",
+        "subject": "Physics",
+        "ytId": "1_at-Ubw68hg-nutWeKldOaFj1BqckvVC",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreopkk235wn",
+        "title": "02 July 2026 IIT JEE Excel-2 (Maths - Continuity - Lecgture 3).mp4",
+        "subject": "Maths",
+        "ytId": "1uibrowxUBj-w17OnqUSmNkScsjfbdcBf",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreooeaoyu73",
+        "title": "30 June 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 4).mp4",
+        "subject": "Physics",
+        "ytId": "1S7uQfRKRrVnXGuqzCClSo_LiAnCzTo5z",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreoo1f0dmkk",
+        "title": "30 June 2026 IIT JEE Excel-2 (Maths - Continuity - Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "1Qz8DaC0UsMEkd_rUdbQYHiJ-UqKH7Luu",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreonhq6mwgx",
+        "title": "30 June 2026 IIT JEE Excel-2 (Chemistry - D & F Block - Lecture -2).mp4",
+        "subject": "Chemistry",
+        "ytId": "1os0AF8-k6aNYSSu99vzhU0psDkx5LMvZ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreon2v8hqc7",
+        "title": "29 June 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1-Z8b25pui1FSetxl5J-CU6NUaSoCKqwO",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreompxpzar3",
+        "title": "29 June 2026 IIT JEE Excel-2 (Maths - Continuity - Lecgture 1).mp4",
+        "subject": "Maths",
+        "ytId": "14ERjBjNz58t4Uypcy2u2g4onBRn3oyx9",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreomcpuvdov",
+        "title": "27 June 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 2) .mp4",
+        "subject": "Physics",
+        "ytId": "1hNhXTHtZ5k5kWY4yEYNH3p0rmTqdLMcJ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreom0h123cu",
+        "title": "27 June 2026 IIT JEE Excel-2 (Maths - Limit - Lecture 15).mp4",
+        "subject": "Maths",
+        "ytId": "1FUBYLkYJbF2uO1jNn-br-nGvM1HeN4nu",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreollmbjr21",
+        "title": "26 June 2026 IIT JEE Excel-2(Physics - Alternating Current - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1C0KLA6U-zPEVNJQTjdiQKRvoK7BXA0Dy",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreol810elbw",
+        "title": "26 June 2026 IIT JEE Excel-2 (Maths - Limit - Lecture 14).mp4",
+        "subject": "Maths",
+        "ytId": "1-e_j2Y5clzak1PEpmv0pHn2dEAlDigmM",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreokvbrn8ly",
+        "title": "26 June 2026 IIT JEE Excel-2 (Chemistry - D & F Block - Lecture -1).mp4",
+        "subject": "Chemistry",
+        "ytId": "19XlKbGvuk3ZDwnTy_J4U7BHx4G0WUOcY",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreokinjraru",
+        "title": "25 June 2026 IIT JEE Excel-2 (Physics - Electromagnetic Induction - Lecture 8).mp4",
+        "subject": "Physics",
+        "ytId": "1OxEj-PYPh8yobvgA2tXVwIsH2KZW6bTu",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreok4rjuc25",
+        "title": "25 June 2026 IIT JEE Excel-2 (Maths - Limit - Lecture 13).mp4",
+        "subject": "Maths",
+        "ytId": "1VYA2f0qzCd9CAo4dBzTAEydYtjL7E8cB",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mreojs1pg4aj",
+        "title": "25 June 2026 IIT JEE Excel-2 (Chemistry - p-block elements - Lecture 20).mp4",
+        "subject": "Chemistry",
+        "ytId": "1FpEt0mJXqZzti6S39-EpT__eIcmHpyeF",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mrend91vmhma",
+        "title": "29 June 2026 NEET Conquer-1 (Botany - Cell-The unit of Life - Lecture 13).mp4",
+        "subject": "Botany",
+        "ytId": "1_C5SEIEwCranpIUp0pcRqrXPiAv4H5gc",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-10"
+    },
+    {
+        "id": "mrel5gs3idkm",
+        "title": "27 June 2026 NEET Conquer-1 (Botany - Cell The unit of life - Lecture 12) .mp4",
+        "subject": "Botany",
+        "ytId": "1PB6zojf1bWu-9hnxk_i4yMe4rL-QhR-I",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-10"
+    },
     {
         "id": "mrddgx234kty",
         "title": "05 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 3)",
