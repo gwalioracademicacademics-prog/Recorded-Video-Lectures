@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 14/07/2026, 15:42:53
+//  Generated: 14/07/2026, 19:18:08
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1538,6 +1538,134 @@ const DB = {
 
   lectures: [
     {
+        "id": "mrkphzxh0k0l",
+        "title": "25 June 2026 Foundation Elevate-1 (Chemistry - Acid Base and Salts - Lecture 1).mp4",
+        "subject": "Chemistry",
+        "ytId": "1CylHT8pFeKx6Zry1EK9fGE3KjuVMLPh0",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkphn6o4fx5",
+        "title": "25 June 2026 Foundation Elevate-1 (Maths - Trigonometry Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "1H5M3aRBqN2BbepYM7LP5Dy0OnqvkVrXr",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpg9tu09io",
+        "title": "05 July 2026 IIT JEE Conquer-1 (Physics - Work Power Energy - Lecture 4).mp4",
+        "subject": "Physics",
+        "ytId": "1lMx0sMfpHhtu1zc7XtACmKEHTHnhbyev",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpfwpmelqg",
+        "title": "03 July 2026 IIT JEE Conquer-1 (Maths - Compound Angle - Lecture 3).mp4",
+        "subject": "Maths",
+        "ytId": "112o4xjlb8hiCibcj-vnYnf8_Fl2rre99",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpfkn36q19",
+        "title": "03 July 2026 IIT JEE Conquer-1 (Chemistry - Periodic Properties Lecture 6).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Nz27vVv8VR0F1w8dt5ZlCK_FWv8-L5-_",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpf6gfsglj",
+        "title": "02 July 2026 IIT JEE Conquer-1 (Physics - Work Power Energy - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1GdAMH0RYy-5bz2mFUyYPhbscyxCIlX8S",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpeuldoia2",
+        "title": "02 July 2026 IIT JEE Conquer-1 (Maths - Compound Angle - Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "1dIj2tHvdAzoOD0CR_xDzSNqOMbC6T6aC",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpdj9atj5l",
+        "title": "16 June 2026 IIT JEE Conquer-1 (Maths - Sequence and Sereis - Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "16jlj1RcFyiUYGziTXUctihd2niAsoyb7",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpd44us1vy",
+        "title": "26 June 2026 IIT JEE Conquer-1 (Maths - Sequence and Sereis - Lecture 8).mp4",
+        "subject": "Maths",
+        "ytId": "1lyRAfS_uUfJna50td6v044a9Zq2aEWYs",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpcsdpi763",
+        "title": "26 June 2026 IIT JEE Conquer-1 (Physics - Circular Motion - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1VnLKxOAV1gQlxJdi74KLSogAaYE0WM3n",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpcg500u7s",
+        "title": "27 June 2026 IIT JEE Conquer-1 (Physics - Circular Motion - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1_BhWv3WeFhPzAxXBrAOrirQ2O2tsoQC-",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpc41b6duk",
+        "title": "27 June June 2026 IIT JEE Conquer-1 (Maths - Sequence and Sereis - Lecture 9)-1.mp4",
+        "subject": "Maths",
+        "ytId": "1OOskzerwMFVAQkjXuf5YHhQLf_exfV3N",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpbq5s02ar",
+        "title": "27 June June 2026 IIT JEE Conquer-1 (Maths - Sequence and Sereis - Lecture 9)-2.mp4",
+        "subject": "Maths",
+        "ytId": "1ZaQlaSPkHogWR7BaVKr2SVPxYh7wIaAs",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpbadtsszd",
+        "title": "29 June 2026 IIT JEE Conquer-1 (Maths - Sequence and Series - Lecture 10).mp4",
+        "subject": "Maths",
+        "ytId": "1S4uk9upSJTsZx6088iIq96TERLNONDvJ",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpatotvg65",
+        "title": "29 June 2026 IIT JEE Conquer-1 (Physics - Work Power Energy - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1TCP3Mt-V10zpBpvPXw3dRX6i_IIZtqfU",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "mrkpag6tgok0",
+        "title": "30 June 2026 IIT JEE Conquer-1 (Physics - Work Power Energy - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1EUKbH0f58aZUotPauBSV6U95CBvdnVg6",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-14"
+    },
+    {
         "id": "mreos3y5v16a",
         "title": "04 July 2026 IIT JEE Excel-2 (Physics - Alternating Current - Lecture 7).mp4",
         "subject": "Physics",
@@ -2341,7 +2469,7 @@ const DB = {
         "id": "mr6ccj6hkl3g",
         "title": "23 June 2026 NEET Conquer Hindi (Physics)",
         "subject": "Physics",
-        "ytId": "1jmJPYamusElt4hUnNZvHH8XcuHLnHAx5",
+        "ytId": "1v8z9TdpVtalvx94WhKP9vjldv5vG9CkU",
         "batchId": "mpqsbvcv6bz4",
         "date": "2026-07-04"
     },
@@ -2749,7 +2877,7 @@ const DB = {
         "id": "mr0ov5xzidav",
         "title": "22 June 2026 NEET Dropper Hindi (Chemistry)",
         "subject": "Chemistry",
-        "ytId": "1EwWbCZikzQGNfIGeWZimIMkbd2fclI2N",
+        "ytId": "1ikMUH-qrX65kwrhPfqqi8uzcPRFIilz5",
         "batchId": "mpqsbvcv6bz4",
         "date": "2026-06-30"
     },
@@ -3309,7 +3437,7 @@ const DB = {
         "id": "mqqogiiv5wb8",
         "title": "16 June 2026 NEET Dropper Hindi (Physics)",
         "subject": "Physics",
-        "ytId": "1YLXgq97Fq9r7zKsTVsComzERb5W5w-X6",
+        "ytId": "1DmzkVkax7SmhLDzLObwu_JaLySKUPw2a",
         "batchId": "mpqsbvcv6bz4",
         "date": "2026-06-23"
     },
@@ -3477,7 +3605,7 @@ const DB = {
         "id": "mqm6aigyq0b0",
         "title": "13 June 2026 NEET Dropper Hindi (Physics)",
         "subject": "Physics",
-        "ytId": "1ZnufIutF1F8vL_fDIczpNCSgxGJ6TBlP",
+        "ytId": "1xz8I2xAHh8An67aaafNdLPNR83k3HhiG",
         "batchId": "mpqsbvcv6bz4",
         "date": "2026-06-20"
     },
