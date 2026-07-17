@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 14/07/2026, 19:18:08
+//  Generated: 17/07/2026, 19:20:55
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -50,6 +50,10 @@ const DB = {
     {
         "id": "mrd9qezxel9r",
         "name": "NEET Conquer-3"
+    },
+    {
+        "id": "mrn6pjpq13qd",
+        "name": "Foundation Special Lectures"
     }
 ],
 
@@ -1533,10 +1537,322 @@ const DB = {
         "batchId": "mpf8lvjd8x6n",
         "active": "true",
         "password": "aditya250"
+    },
+    {
+        "id": "mrnaav07sqim",
+        "name": "Ajay Yadav",
+        "email": "162613183",
+        "batchId": "mrd9qezxel9r",
+        "active": "true",
+        "password": "ajay183"
+    },
+    {
+        "id": "mrnapopdp128",
+        "name": "Rohit Rajoriya",
+        "email": "252017706",
+        "batchId": "mrd9qezxel9r",
+        "active": "true",
+        "password": "rohit706"
     }
 ],
 
   lectures: [
+    {
+        "id": "mrozx0qlcvva",
+        "title": "11 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 14).mp4",
+        "subject": "Zoology",
+        "ytId": "1T5HRotoB0s2AcZoUrabMusCkSdfQivQC",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozwkwnidbz",
+        "title": "11 July 2026 NEET Excel-1 (Chemistry - Practical Chemistry - Lecture 1).mp4",
+        "subject": "Chemistry",
+        "ytId": "1nPSprtR8n01ga53RDTYwXOBztVUGGF88",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozw6z9qyoh",
+        "title": "11 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 29).mp4",
+        "subject": "Botany",
+        "ytId": "12A8tEjoUJn42raLaqkILjFgD-QNjj-IY",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozvek306mg",
+        "title": "10 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 13).mp4",
+        "subject": "Zoology",
+        "ytId": "1UQQHFX7-8UU6SFhV7IKAiFYEwSsKJnpk",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozv19fq4p1",
+        "title": "10 July 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 8).mp4",
+        "subject": "Physics",
+        "ytId": "1ZjFHbmACfHLCXKIKZQth3Nm3kt7VNcM-",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozumz3w18z",
+        "title": "10 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 28).mp4",
+        "subject": "Botany",
+        "ytId": "1EnzT4pwpy1gRyCe86HVQv7258C8EwVOy",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozu9pr63mu",
+        "title": "09 July 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 7).mp4",
+        "subject": "Physics",
+        "ytId": "1mKpGEY374X6KlYBnAYGtgcRbzlmIvs_f",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mroztwwnlrz7",
+        "title": "09 July 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 12).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Gb00IlLgpIkp_O5jfHzWdCtlErQxhGDO",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mroztjlhrb6x",
+        "title": "09 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 27).mp4",
+        "subject": "Botany",
+        "ytId": "1u_uoqj7AqXx_6khCzO_Doof3M7WXPmFS",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozt1i4autg",
+        "title": "07 July 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "14QZiIBLSLy5R0_vG4RJp2Xnba4zE4k4i",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozsnliqwfx",
+        "title": "07 July 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 11).mp4",
+        "subject": "Chemistry",
+        "ytId": "1PtZqpTKXBTCqZ-GR1L8rlVDxO189H0Nf",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozs9q7ta47",
+        "title": "07 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 26).mp4",
+        "subject": "Botany",
+        "ytId": "1I4F2l4eMqCjdoYgKCm-LOY0m1MufujMx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozrx31fdec",
+        "title": "06 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture 12).mp4",
+        "subject": "Zoology",
+        "ytId": "1L6IEY0qayl8Gh03Qv8QK0oj2lcNOdEpW",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozrkgviycq",
+        "title": "06 July 2026 NEET Excel-1 (Chemistry - p-block elements - Lecture 10).mp4",
+        "subject": "Chemistry",
+        "ytId": "1luDJA9CDuYcrBQ_TGuGOxriFNNlWTm9v",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrozr6xw3aow",
+        "title": "06 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 25).mp4",
+        "subject": "Botany",
+        "ytId": "12ty6sMcf_sx2YHiOs9dIMXdZj0eHSqWj",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-07-17"
+    },
+    {
+        "id": "mrn7zkp6emi8",
+        "title": "18 June Foundation Adapt-1 (Physics).mp4",
+        "subject": "Physicd",
+        "ytId": "1sRiAED9X1zOaBmy1YlzYSiB54ybNQxi0",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7x36ap2bi",
+        "title": "18 June Foundation Adapt-1 (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1yZBWnlBp6_nRj_2pOgocyiWqVmcfak7z",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7wskczym9",
+        "title": "18 June Foundation Adapt-1 (English).mp4",
+        "subject": "English",
+        "ytId": "1Lmg8wyzeMNJrpvWDZVPkDa1bwmox11rC",
+        "batchId": "mpf8mm5qdkpy",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7wdw43cem",
+        "title": "15 June Foundation (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1cw3gXTJ_rGGJAzbeBOS6DAkVxVqS-O8n",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7w35z404z",
+        "title": "13 June Foundation (English).mp4",
+        "subject": "English",
+        "ytId": "1l5JRU6aOXPrmA2FzIKlGC9F9VYTYBask",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7vri3dhua",
+        "title": "12 June Foundation (SST).mp4",
+        "subject": "SST",
+        "ytId": "113ZXPs50rAeNL3nAC0RyXTDSy_WShQCm",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7vg4dscyn",
+        "title": "12 June Foundation (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1GucYyCPbwzkw2Q9wf6Z_uDaI3yU4cD8O",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7v32yxpmg",
+        "title": "09 June 2026 Foundation (SST).mp4",
+        "subject": "SST",
+        "ytId": "1-qoF1cGkWL3abBsgpWch3w44xjgWUqtj",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7us3coe98",
+        "title": "09 June 2026 Foundation (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1ESbD82HM6YFxGkQjvln_IDDJehc2vj_W",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7u6dmllh0",
+        "title": "09 June 2026 Foundation (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Hd9_cR4xTwtrawsk__d8x2DSuK_OoAbo",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7ttgsd2pd",
+        "title": "08 June 2026 Foundation (Biology).mp4",
+        "subject": "Biology",
+        "ytId": "1PaFayInzskpMyvY4-WcM59r8OgJwCiAt",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7tia1uzxl",
+        "title": "07 June 2026 Foundation (English).mp4",
+        "subject": "English",
+        "ytId": "1P8rzK4h3NE4hegdZaIjwPcN1oAHEg23K",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7i4828wnu",
+        "title": "07 June 2026 Foundation (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Uwhbzr0feoJSWXcjhyqUQGZTqM0q-qA1",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7hrxpcs6c",
+        "title": "05 June 2026 Foundation Elevate-1 (SST - Nationalism Lecture 1) .mp4",
+        "subject": "SST",
+        "ytId": "12gVavv7SChKAE87VX5NxmAD3iXzdd9h6",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7hd6g7drj",
+        "title": "05 June 2026 Foundation (SST).mp4",
+        "subject": "SST",
+        "ytId": "1kEqRVmxpYH6_HUqeBeU8BRVteGOSlWXc",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn7h1qwymfs",
+        "title": "05 June 2026 Foundation (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1VeGMsAiV39ZLyqdn7mM_4lF9G6HkjHy8",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6tyds6yt1",
+        "title": "05 June 2026 (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1kjEd3LexuEfBKwMrv6fOB-NaMQ-wxxFA",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6tfx0zmea",
+        "title": "03 July Foundation (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1gvaOzRxNZYyl434PExufhGKisJxLH-4F",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6syjil48v",
+        "title": "02 June 2026 Foundation (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1P8TOUm5sSaJDy-Doth4Fo1uo8MfIjE56",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6sf31h7mw",
+        "title": "01 June 2026 Foundation (Maths).mp4",
+        "subject": "Maths",
+        "ytId": "1vwEDc0exhWaFknWer1l1gtrXt621ODze",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6s23y4qon",
+        "title": "01 June 2026 Foundation (English).mp4",
+        "subject": "English",
+        "ytId": "1MoE4T6pwGcPOJuLb3AkCsQD5bHrodB-T",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
+    {
+        "id": "mrn6rfnnpatn",
+        "title": "01 June 2026 Foundation (Biology).mp4",
+        "subject": "Biology",
+        "ytId": "1zzW6E9UopKhi-Q2DtON4fdDZZ4Jlc0uc",
+        "batchId": "mrn6pjpq13qd",
+        "date": "2026-07-16"
+    },
     {
         "id": "mrkphzxh0k0l",
         "title": "25 June 2026 Foundation Elevate-1 (Chemistry - Acid Base and Salts - Lecture 1).mp4",
