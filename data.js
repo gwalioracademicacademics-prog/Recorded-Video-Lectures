@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 18/07/2026, 13:40:38
+//  Generated: 18/07/2026, 15:04:06
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1557,6 +1557,78 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mrq6550g71fk",
+        "title": "11 July 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1q4mIGvch8et7xTdSC1qeoLVp_uzMcWyP",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq64owa6lz7",
+        "title": "10 July 2026 IIT JEE Excel-2 (Maths - Differentiability - Lecture 4).mp4",
+        "subject": "Maths",
+        "ytId": "1fx82KaLF5eFklltXoBIY1bEKwohI1I8y",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq64bwoqrmx",
+        "title": "09 July 2026 IIT JEE Excel-2 (Physics - Electromagnetic Wave - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "131PXjqf662Oau9n4jSmDouKG6_tdG9vV",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq63auny4un",
+        "title": "09 July 2026 IIT JEE Excel-2 (Maths - Differentiability - Lecture 3).mp4",
+        "subject": "Maths",
+        "ytId": "1z0nOuGBuqPXgg5k6EcjxoKGnTVKcgWye",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq62s6nrbua",
+        "title": "07 July 2026 IIT JEE Excel-2 (Physics - Electromagnetic Wave - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1uAjXrgfg84WRgdJSV20hDrCflrMfpY8K",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq62a1nsssc",
+        "title": "07 July 2026 IIT JEE Excel-2 (Maths - Differentiability - Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "17NYSHfVopWPYwJaEW4vjort8ZXWT0FFs",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq61sz3s07b",
+        "title": "07 July 2026 IIT JEE Excel-2 (Chemistry - D & F Block - Lecture 9).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Tgzc85x8WndSD65ehyUj9JJQe9h1TsAE",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq60zy63hll",
+        "title": "06 July 2026 IIT JEE Excel-2 (Physics - Electromagnetic Wave - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1cKC-BDHP_O7eVv_XnhSTs97ZYUZ0oUBF",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
+    {
+        "id": "mrq60huzh634",
+        "title": "06 July 2026 IIT JEE Excel-2 (Maths - Differentiability - Lecture 1).mp4",
+        "subject": "Maths",
+        "ytId": "1vlySy1RgOX56Fj7WSFbOIC90fU2c2okw",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-07-18"
+    },
     {
         "id": "mrq37af6bil1",
         "title": "11 July 2026 IIT JEE Excel-1 (Physics - Electromagnetic Waves - Lecture 4).mp4",
