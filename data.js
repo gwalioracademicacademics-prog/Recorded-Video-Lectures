@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 18/07/2026, 15:04:06
+//  Generated: 19/07/2026, 18:59:51
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1557,6 +1557,102 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mrru1caukohz",
+        "title": "11 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "1FYkfifzQ8DCNgHtUbD8UQHvYZFpFaiJk",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrru0zp505lw",
+        "title": "11 July 2026 NEET Conquer-1 (Botany - Living World - Lecture 1).mp4",
+        "subject": "Botany",
+        "ytId": "1-TKzW6fmALvyMbh0EwNoFZKIYtth8g-O",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrru0nnd24kv",
+        "title": "10 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 5).mp4",
+        "subject": "Zoology",
+        "ytId": "1Zo9-m6MJLyeyW9QDBobbK23g5uQ2MPk7",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrru0bln3yep",
+        "title": "10 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 5).mp4",
+        "subject": "Physics",
+        "ytId": "15V9lxpJuK7a1qVavOmizju8VyOgs94KD",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtzye4ll0f",
+        "title": "10 July 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 9).mp4",
+        "subject": "Chemistry",
+        "ytId": "1MZvQzuMcxOiVIGU0jir7MUKzbiomk2bp",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtzk48eri2",
+        "title": "09 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 4).mp4",
+        "subject": "Physics",
+        "ytId": "14Jy8e8KpkQCRKqB4FqUKvr1NOoaxX53L",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtz6ktibbk",
+        "title": "09 July 2026 NEET Conquer-1 (Botany - Cell Cycle and Cell Division - Lecture 5).mp4",
+        "subject": "Botany",
+        "ytId": "1rtMp7pa6giy2HwOClXm9-ke6wLxrkEPo",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtwk2xa5fx",
+        "title": "07 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1yTb4ALr7RhHYu4uVUPVhoSuJHDScu5M5",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtw6u4osz7",
+        "title": "07 July 2026 NEET Conquer-1 (Chemistry - Periodic Table - Lecture 7).mp4",
+        "subject": "Chemistry",
+        "ytId": "14aq6oFacaDfyLMp1IyPwZUo6ZSA_DXxV",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtvuc49l3p",
+        "title": "06 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 4).mp4",
+        "subject": "Zoology",
+        "ytId": "17c98NtkTL_2wgmHSXhFxSKXulwZvWt60",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtvi3ukgk5",
+        "title": "06 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1bkK6HeCdzlgNIYOt8MC2u5t4W3xqsawj",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
+    {
+        "id": "mrrtu642gouv",
+        "title": "06 July 2026 NEET Conquer-1 (Botany - Cell Cycle and Cell Division - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "17POgo8BRppoNYcFdMjEnNywYM7ccX0sN",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-07-19"
+    },
     {
         "id": "mrq6550g71fk",
         "title": "11 July 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 1).mp4",
