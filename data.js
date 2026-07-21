@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 20/07/2026, 14:48:30
+//  Generated: 21/07/2026, 15:00:27
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1573,6 +1573,38 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mrugdjayit4x",
+        "title": "10 July 2026 IIT JEE Conquer-1 (Physics - Centre of Mass and Collision - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1UX5YcMAeCE0gcrQ0icebJLVXOS6kRTTV",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-21"
+    },
+    {
+        "id": "mrugd4jxlfc5",
+        "title": "09 July 2026 IIT JEE Conquer-1 (Physics - Centre of Mass and Collision - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1AQ03QMZFG9V8QiUE7CgoMzl__TK81vvt",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-21"
+    },
+    {
+        "id": "mrugcr1uyec2",
+        "title": "07 July 2026 (Physics - Centre of Mass and Collision - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1rbW2Nms1VlOHz8cpCeTsK_0iBXd2G9XN",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-21"
+    },
+    {
+        "id": "mrugcbc5amx7",
+        "title": "07 July 2026 (Maths - Compound Angle - Lecture 7).mp4",
+        "subject": "Maths",
+        "ytId": "1n4EEQYeqNSFb94pMVDUDEb1xmeWTkvKX",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-21"
+    },
     {
         "id": "mrru1caukohz",
         "title": "11 July 2026 NEET Conquer-1 (Physics - Circular Motion - Lecture 6).mp4",
