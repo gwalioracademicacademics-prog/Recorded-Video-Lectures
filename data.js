@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 25/07/2026, 16:22:21
+//  Generated: 30/07/2026, 18:52:08
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1577,10 +1577,58 @@ const DB = {
         "batchId": "mrd9qezxel9r",
         "active": "true",
         "password": "karan186"
+    },
+    {
+        "id": "ms7hst3yxsog",
+        "name": "Devesh Mourya",
+        "email": "162613187",
+        "batchId": "mpqsbvcv6bz4",
+        "active": "true",
+        "password": "devesh187"
+    },
+    {
+        "id": "ms7htiwn1ork",
+        "name": "Sachin Tandon",
+        "email": "162613188",
+        "batchId": "mpqsbvcv6bz4",
+        "active": "true",
+        "password": "sachin188"
+    },
+    {
+        "id": "ms7hu3248m8u",
+        "name": "Aryan Bansal",
+        "email": "162613189",
+        "batchId": "mrd9qezxel9r",
+        "active": "true",
+        "password": "Aryan189"
+    },
+    {
+        "id": "ms7hupjxz7a6",
+        "name": "Yogita Rawat",
+        "email": "162613190",
+        "batchId": "mrd9qezxel9r",
+        "active": "true",
+        "password": "yogita190"
     }
 ],
 
   lectures: [
+    {
+        "id": "ms7jhg2crc6a",
+        "title": "06 July 2026 IIT JEE Conquer-1 (Chemistry - Periodic Table - Lecture 8).mp4",
+        "subject": "Chemistry",
+        "ytId": "1wUQDGJQTIG1vRk6F_PGZ18iyHviv8BD_",
+        "batchId": "mpf8mdqx8ov3",
+        "date": "2026-07-30"
+    },
+    {
+        "id": "ms7i1dcrxjla",
+        "title": "09 July 2026 Foundation Elevate-1 (English - Fire and Ice - Lecture 1).mp4",
+        "subject": "English",
+        "ytId": "1ouN5tZVX80HchpHu-2Nrhpa2A-y7bAIW",
+        "batchId": "mpf8mi1kdw37",
+        "date": "2026-07-30"
+    },
     {
         "id": "mrugdjayit4x",
         "title": "10 July 2026 IIT JEE Conquer-1 (Physics - Centre of Mass and Collision - Lecture 3).mp4",
