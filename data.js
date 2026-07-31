@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 30/07/2026, 18:52:08
+//  Generated: 31/07/2026, 18:00:54
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1613,6 +1613,318 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "ms8x82szy24i",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "131Ezu9hcn3K41LYmdtuyRcOI9vftkOOQ",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8x7rojlv69",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Zoology)-2.mp4",
+        "subject": "Zoology",
+        "ytId": "1WMxl7NI5BugpUxS7e7PQro72nLlr0P20",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8x7gzep4kf",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "11JnpHq2-toINzxAkxEekNgEBlC_PwzEx",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8x75q99eoq",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Physics)-3.mp4",
+        "subject": "Physics",
+        "ytId": "1lBw9NO4lgyao5tnia-yZqXGcJicuFafW",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8x6tjdw021",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Physics)-2.mp4",
+        "subject": "Physics",
+        "ytId": "1zN9eMIE7Oyt2FCt3eSdh0WHf50xfpYGY",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8x6fj7h1gg",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1edY31pWUuQReRJOn-8dHLQU0B9yqr1tg",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wz0rivts7",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1jkKMhCox64U0_osSKeO9roMqLzcjhVh9",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wylzkqcan",
+        "title": "23 July 2026 NEET Conquer 2 Hindi (Botany)-2.mp4",
+        "subject": "Botany",
+        "ytId": "183C4DGTnJrA-wtSTpXcB2cYRLIt8-leF",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wy8y6nak1",
+        "title": "20 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "14juv4UQBzp-BKzBX7TyVizcke0GorrCI",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wxuse86xt",
+        "title": "20 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1FVt7yeoLoIxaDGRR03lyC_d-O3RVj90U",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wwwp2hdc7",
+        "title": "18 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1R1sNv9Lstm-9V0RbBHNNkYwIel8qhHoU",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wwj61litu",
+        "title": "18 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1_WQHwFi59c_M-oS8x5ceJHVXF6miA9nN",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8ww53k3cnn",
+        "title": "17 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1JFhtYH4lwdU-hLCN91f2adwjh5D65FqN",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wvrsvwrnd",
+        "title": "16 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1sYpvrAVE4EPJ8_LYhZ3WS0gQ1lX8LhaZ",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wv1dwcvry",
+        "title": "14 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1PHZna2cWY1Y53CySqqbnHIJT4fBtPSmI",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wumfijiw5",
+        "title": "14 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1eShbBKQGHUw5LLG9z4AvyfIxCQIScj_Q",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wu86lr7r9",
+        "title": "14 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1kLL2tlWQjfZvJuc27fRtW_f1Q70IGXHl",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wtqogz0sl",
+        "title": "13 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "19Z7qBTiOpmdAZOvOymePvBf0H22lybd0",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wtcrjxnfr",
+        "title": "13 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Fr3eKTpZKwj9AtkEVBGLXnzdxyWnDcy7",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wsy49btun",
+        "title": "11 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "10gzmdSHpO4xrvtlBiAbzXgQZ__-rIJN2",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wqnv6thgd",
+        "title": "11 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1-3JqcdhgvDx-RBpZ-Wmn9OiJaHFhTb6k",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wqc3h0nv3",
+        "title": "10 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1j3LAXWYvoEMe4eEbvZzYpfzqimW4sRkx",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wpyreqghk",
+        "title": "09 July 2026 NEET Conquer 2 Hindi(Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "16dAxs0b1yvWkXKT3LNeAB-oYJ84T_fOF",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wpli5ppwa",
+        "title": "09 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1jeaUXPjG0SMCrjOzzvZOD1913NpseeIz",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wp9ehkn7t",
+        "title": "07 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1rX29EGuhKp9qk_1h3dm8E2SL2_e8vjbV",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wouk6ie28",
+        "title": "06 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1dZQKEeGqDoE6WpwFktOwEEon8IUjuG9C",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8woh90hif1",
+        "title": "06 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1PwcA4erVPocg-cBYL5t7DFGZ91e4j4sE",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wnmczgv7s",
+        "title": "06 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "11vP6NXhalJKsi6YDINTicC9gbhogGDU9",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wn7td79iq",
+        "title": "04 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1FAjsWsPI5vB71dbdPKSeDeUz5DsKUHQ-",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wmuo776vv",
+        "title": "03 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1G8qUUv78-3N34xLYmhbip1KrZd_lW46v",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wmgpw50tc",
+        "title": "03 July 2026 NEET Conquer 2 Hindi (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1iYhO4bJJLexxHMLi20LGJeCHq2XXpjDs",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wm3qs0r2o",
+        "title": "03 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1zp_io-bf0GzKfO_HgBJIY8s-9dkSVBSZ",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wln3cyjlv",
+        "title": "02 July 2026 NEET Conquer 2 Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "10Q0nCNZdJvvUvUYKtYimJL3d7zBkPmaA",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wlavw7x9v",
+        "title": "02 July 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1cbBki6tEZ8hWO_EQ9K6k-ywa9c48Z8G8",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8wj21br8vx",
+        "title": "30 June 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1DBbsPIvNbx0DGY9XrvUFJIAmdGpSXcNL",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8v7u6mk969",
+        "title": "27 June 2026 NEET Conquer Hindi (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "19XyHiVKBgO3_cevboW33J_Ub30wkkoAr",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8v7ecp41te",
+        "title": "27 June 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1_L5rGZGeQnE6UJX8haRcdu1t4LBUm0rf",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8v53bem8k6",
+        "title": "27 June 2026 NEET Conquer 2 Hindi (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "14VI6t8eZRsMk7J9TBJY9NGefvx0vXWih",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
+    {
+        "id": "ms8v4q75xtdi",
+        "title": "27 June 2026 NEET Conquer 2 Hindi (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1bTJk2cWWx4SZD35kWEkclHTUDuEFKAU2",
+        "batchId": "mpqsbvcv6bz4",
+        "date": "2026-07-31"
+    },
     {
         "id": "ms7jhg2crc6a",
         "title": "06 July 2026 IIT JEE Conquer-1 (Chemistry - Periodic Table - Lecture 8).mp4",
