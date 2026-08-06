@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 06/08/2026, 13:10:17
+//  Generated: 06/08/2026, 17:47:57
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1629,6 +1629,110 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mshh9mz76sqk",
+        "title": "20 July 2026 NEET Conquer-3(Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1d-_wHDAeyRmHS20F-EDZx7GJRitfYgCG",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh9ah4b63d",
+        "title": "18 July 2026 NEET Conquer-3 (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1KMmPhpW-9tjmbKhDfsA0gGp-7GfLfQOt",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh8ydxagcq",
+        "title": "16 July 2026 NEET Conquer-3 (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1ZHc9fUVHiuEdsU4bU-jD251IDH8aSPao",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh8mcl7cqq",
+        "title": "16 July 2026 NEET Conquer-3 (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1O2ngwXlPDxibiJz9vRBp5NE81-FkN50I",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh81cmjm00",
+        "title": "16 July 2026 NEET Conquer-3 (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1ICEOsamFM0Ok3wa1XZ0KWvFFW6SCzVUi",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh7pd4v0ba",
+        "title": "14 July 2026 NEET Conquer-3 (Physics).mp4",
+        "subject": "Physics",
+        "ytId": "1JOoSvhceSOxMSWFlUK2hJzbNmYHT3ED3",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh7c1ylxr3",
+        "title": "14 July 2026 NEET Conquer-3 (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1C_PWJ-Zzyf7DljhS8Y-LdcYokghBZ9E5",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh6ykam5lc",
+        "title": "14 July 2026 NEET Conquer-3 (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1GfxOD40ShuDZ8Fij856qvZG7N532kkbD",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh6jp3a41x",
+        "title": "12 July 2026 NEET Conquer-3 (Botany).mp4",
+        "subject": "Botany",
+        "ytId": "1RK0g85ANkB4h3L0BDRGDGfQQQu6GYtTs",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh6706c8ud",
+        "title": "11 July 2026 NEET Conquer-3 (Zoology).mp4",
+        "subject": "Zoology",
+        "ytId": "1n7cIXv1TnYxCXFAws9hXvRfH1cMF9WA0",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh5shhhhc7",
+        "title": "11 JUly 2026 NEET Conquer-3 (Physics - Basic Math).mp4",
+        "subject": "Physics",
+        "ytId": "1Xty51kWERAyy9PoQAaJwwY49mbbdiE99",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh5gh270cq",
+        "title": "11 July 2026 NEET Conquer-3 (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1GoT9fnRxrstaLZbAdFMrydrqO0SczO-j",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "mshh52uafwva",
+        "title": "09 July 2026 NEET Conquer-3 (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1KFW8IeuIF0ui5bdViePpbZ_ov8daSgQS",
+        "batchId": "mrd9qezxel9r",
+        "date": "2026-08-06"
+    },
     {
         "id": "msh7gvmtwehk",
         "title": "23 July 2026 NEET Conquer-1 (Zoology - Breathing and Gaseous Exchange - Lecture 3).mp4",
