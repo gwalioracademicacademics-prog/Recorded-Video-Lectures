@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 04/08/2026, 14:07:00
+//  Generated: 06/08/2026, 13:10:17
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1617,10 +1617,130 @@ const DB = {
         "batchId": "mrd9qezxel9r",
         "active": "true",
         "password": "yash191"
+    },
+    {
+        "id": "msh3ni1xw4kz",
+        "name": "Anushri Shrotriya",
+        "email": "162613192",
+        "batchId": "mpf8m5xgxy9t",
+        "active": "true",
+        "password": "anushri192"
     }
 ],
 
   lectures: [
+    {
+        "id": "msh7gvmtwehk",
+        "title": "23 July 2026 NEET Conquer-1 (Zoology - Breathing and Gaseous Exchange - Lecture 3).mp4",
+        "subject": "Zoology",
+        "ytId": "1nr6ztfbi1a4pKdUROWHhvKj5mRY0JIK3",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh7ghdbu336",
+        "title": "23 July 2026 NEET Conquer-1 (Physics - Centre of Mass and Collusion - Lecture 7).mp4",
+        "subject": "Physics",
+        "ytId": "1fmipp3Xc2YwR8h91mUiEAf1gmPzr9vSY",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh7966t5kw1",
+        "title": "23 July 2026 NEET Conquer-1 (Physics - Centre of Mass and Collusion - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "1KFmAHAfaokrgHhwLRP1eC9T8pnQ90HoU",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh78irblkel",
+        "title": "23 July 2026 NEET Conquer-1 (Chemistry - Chemical Bonding - Lecture 6).mp4",
+        "subject": "Chemistry",
+        "ytId": "1eCKeKQ7TKjPSsxSHDDrI-7VcQTK1cXeu",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh783mhx727",
+        "title": "21 July 2026 NEET Conquer-1 (Zoology - Breathing and Gaseous Exchange - Lecture 2).mp4",
+        "subject": "Zoology",
+        "ytId": "1YEVNbqybKvDncREC9f6EwWtmuwXMuCZl",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh77r7noan5",
+        "title": "21 July 2026 NEET Conquer-1 (Botany - Biological Classification - Lecture 3).mp4",
+        "subject": "Botany",
+        "ytId": "1q7_zBcQkfhKjQ59pu5yvzbWAd2RXNJZ4",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh765vbcj63",
+        "title": "20 July 2026 NEET Conquer-1 (Physics - Centre of Mass and Collusion - Lecture 5).mp4",
+        "subject": "Physics",
+        "ytId": "1ZUXhYqJ_IVczKVpW_0McyhzUqxSLARTs",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh75s871954",
+        "title": "20 July 2026 NEET Conquer-1 (Chemistry - Chemical Bonding - Lecture 5).mp4",
+        "subject": "Chemistry",
+        "ytId": "1-aegl669jsA563tjCFNtueDaCGjjAL5t",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh75eewd1kg",
+        "title": "20 July 2026 NEET Conquer-1 (Botany - Biological Classification - Lecture 2).mp4",
+        "subject": "Botany",
+        "ytId": "1EzyBUJT68d-I8YoRPXaf9OnVWLQnz3up",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh74dbqjxwf",
+        "title": "19 July 2026 NEET Conquer-1 (Zoology - Breathing and Gaseous Exchange - Lecture 1).mp4",
+        "subject": "Zoology",
+        "ytId": "16HDWaZSob3meiRzrbbDzyD3sZu1-b6SD",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh73zcyy84n",
+        "title": "19 July 2026 NEET Conquer-1 (Chemistry - Chemical Bonding - Lecture 4).mp4",
+        "subject": "Chemistry",
+        "ytId": "1t75u9p543X_uvAPCVYPESHTId1QevCGI",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh73mcwqe2n",
+        "title": "19 July 2026 NEET Conquer-1 (Botany - Biological Classification - Lecture 1).mp4",
+        "subject": "Botany",
+        "ytId": "1O3d3lbKkUqZXF61Ayd7t427r_7dgIOqk",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh738zvyu8y",
+        "title": "18 July 2026 NEET Conquer-1 (Zoology - Biomolecules - Lecture 11).mp4",
+        "subject": "Zoology",
+        "ytId": "18uNqOI8ffaDfG-kW1gFW7N1WtxoUS7Ne",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
+    {
+        "id": "msh72vl1kt0q",
+        "title": "18 July 2026 NEET Conquer-1 (Chemistry - Chemical Bonding - Lecture 3).mp4",
+        "subject": "Chemistry",
+        "ytId": "1RS6ON_KSena6NYL70SNHmGdsKbxiboeQ",
+        "batchId": "mpf8m5xgxy9t",
+        "date": "2026-08-06"
+    },
     {
         "id": "ms8x82szy24i",
         "title": "23 July 2026 NEET Conquer 2 Hindi (Zoology).mp4",
