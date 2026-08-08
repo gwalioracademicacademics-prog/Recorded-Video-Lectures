@@ -1492,7 +1492,7 @@ const DB = {
     },
     {
         "id": "mrd9qxa9t0hd",
-        "name": "Vikram Singh Jadon",
+        "name": "Vikram Singh Jatav",
         "email": "162613177",
         "batchId": "mrd9qezxel9r",
         "active": "true",
