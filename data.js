@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 10/08/2026, 17:40:54
+//  Generated: 11/08/2026, 19:18:30
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1637,6 +1637,270 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "msopua9u8nkb",
+        "title": "21 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture - 18).mp4",
+        "subject": "Zoology",
+        "ytId": "1BqlwjkplHV0uaSIKiwO4iJXnPqfP5jTx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoptuzi86n8",
+        "title": "21 July 2026 NEET Excel-1 (Chemistry - Organic Chemistry - Lecture 2).mp4",
+        "subject": "Chemistry",
+        "ytId": "1fuZRJqEaoJ-v34st2mtHFp8WNRqkn4DI",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoptj5r8pp3",
+        "title": "21 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 35).mp4",
+        "subject": "Botany",
+        "ytId": "1SAuzvqnLBpsglXNe_aJPuufTog2F9eB-",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopt7mld46i",
+        "title": "20 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture - 17).mp4",
+        "subject": "Zoology",
+        "ytId": "1hI4K7MjYAoMTj0f0sRavZ7phIrmX3BAz",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopst10qgi2",
+        "title": "20 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1jOjcoOx0TFUqSCtGIPoyODvgsS9-NvBa",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopsfz9wwqd",
+        "title": "20 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 34).mp4",
+        "subject": "Botany",
+        "ytId": "1OkwsLgwJiTBTbO_oaKxPvmQTWuc0W-DD",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msops3zn9shi",
+        "title": "17 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture - 16).mp4",
+        "subject": "Zoology",
+        "ytId": "1VU1tkPn5ELBf0BCT7m8R74gKN5OScExA",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoproj2fk1p",
+        "title": "17 July 2026 NEET Excel-1 (Chemistry - Organic Chemistry - Lecture 1).mp4",
+        "subject": "Chemistry",
+        "ytId": "1SOMAek6CjzF7OYqnYgQMNRfR8B-bOHJM",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoprbu3xftk",
+        "title": "17 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 33).mp4",
+        "subject": "Botany",
+        "ytId": "1NliSTlC72e21E5Z7W05L_03aHx24t2Yt",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopqvjjic9j",
+        "title": "16 July 2026 NEET Excel-1 (Zoology - Human Health and Disease - Lecture - 15).mp4",
+        "subject": "Zoology",
+        "ytId": "1LdSIsOCuiU-qQZoKyQonPd5aTuMIH9C9",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopqbxoay3z",
+        "title": "16 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1okAVMAYJikCfhlL5fGwhaM4fAcXGsZJg",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoppyk0u18v",
+        "title": "16 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 32).mp4",
+        "subject": "Botany",
+        "ytId": "15S_SDXuwvkjM0Q-N8poqNe-dNd_wYexs",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoppjfa6hmo",
+        "title": "14 July 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 10).mp4",
+        "subject": "Physics",
+        "ytId": "11X2whaMZrFbG9wXBfSC-OG4ytdGs9YYE",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopp5vmbx7l",
+        "title": "14 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 31).mp4",
+        "subject": "Botany",
+        "ytId": "1gjIJY7mlUbd-h-P_5O-Cvb8qCOw5JCwB",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopou869vq5",
+        "title": "13 July 2026 NEET Excel-1 (Physics - Alternating Current - Lecture 9).mp4",
+        "subject": "Physics",
+        "ytId": "1iLI3ol43ohzE-uC5QJedRHxRaoBsdTO_",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopoj4nu0zk",
+        "title": "13 July 2026 NEET Excel-1 (Chemistry - Practical Chemistry - Lecture 2).mp4",
+        "subject": "Chemistry",
+        "ytId": "1FpeK-b5HSqGTwcUBiD3lWTJzwEEG8tEC",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopnqfskr48",
+        "title": "13 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 30).mp4",
+        "subject": "Botany",
+        "ytId": "1Tj1AkQwn66cOLWqxU3sVpPPXJyV9fGaL",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopm0tpbz7v",
+        "title": "23 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 7).mp4",
+        "subject": "Physics",
+        "ytId": "11vEkcB5AE8653LZTNUGqvT06DfxrZOpp",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoploehycg6",
+        "title": "23 July 2026 IIT JEE Excel-1 (Maths - Method of Differentiation - Lecture 7).mp4",
+        "subject": "Maths",
+        "ytId": "14QmhuShRt3gL1NCLAP8L3XjtZjHDU88N",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopkyne73a4",
+        "title": "21 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "1MLPjElYa6fQD4M8SHU-KYTiM6PIICHx-",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopkkjsntnb",
+        "title": "21 July 2026 IIT JEE Excel-1 (Maths - Method of DIfferentiation - Lecture 6).mp4",
+        "subject": "Maths",
+        "ytId": "1AedNg6ZhZzpEVNBbB7WTq-kl6e7JpXMd",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopk3e6ssuq",
+        "title": "21 July 2026 IIT JEE Excel-1 (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1kKm--NtBeL1MkeNGVDGEOenSX1rcJn3s",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopjqd74dhb",
+        "title": "20 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 5).mp4",
+        "subject": "Physics",
+        "ytId": "1xIIw3GUJutu8fqPYbIKf21PBtj7SicAQ",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopjd2l9jrq",
+        "title": "20 July 2026 IIT JEE Excel-1 (Maths - Method of DIfferentiation - Lecture 5).mp4",
+        "subject": "Maths",
+        "ytId": "1GewiKHngtu_ChmdHVXAWlxaOdOMxgvTM",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopj14zls34",
+        "title": "18 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 4).mp4",
+        "subject": "Physics",
+        "ytId": "1kQPAneOrTHYLUUYsn6G5zFWEc9J7r5Al",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopio9xppvc",
+        "title": "18 July 2026 IIT JEE Excel-1 (Maths - Method of DIfferentiation - Lecture 4).mp4",
+        "subject": "Maths",
+        "ytId": "1glX0Mjpdz0P7j7OcNqJng7_k6n-P1Pr3",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopibfhcpaq",
+        "title": "18 July 2026 IIT JEE Excel-1 (Chemistry).mp4",
+        "subject": "Chemistry",
+        "ytId": "1yp4FkS6cRvW-VT-NQF-is3VZFfmiSl28",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopi0m2of5k",
+        "title": "17 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "16l45nmN8h9CLqYpnx9ieNIhnSmYsI_nE",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msophk3lm5bk",
+        "title": "17 July 2026 IIT JEE Excel-1 (Maths - Method of Differentiation - Lecture 3).mp4",
+        "subject": "Maths",
+        "ytId": "1QtkSFJDsHsxzYX10Rtuy4r7ufBUnowdc",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msoph0eef5kg",
+        "title": "14 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 2).mp4",
+        "subject": "Physics",
+        "ytId": "1xLxrU31pTqCMrY527IaW1vr9n0ojpKUN",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopgpuprlau",
+        "title": "14 July 2026 IIT JEE Excel-1 (Maths - Method of Differentiation - Lecture 2).mp4",
+        "subject": "Maths",
+        "ytId": "1xmT1GKTu25vK9tOAetSuPAiVighFi1n_",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopeohi2llb",
+        "title": "13 July 2026 IIT JEE Excel-1 (Physics - Ray Optics - Lecture 1).mp4",
+        "subject": "Physics",
+        "ytId": "1Lbq1-b6X0TrJ_dbJa5DI12ewVcHUA6Tp",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
+    {
+        "id": "msopebwhajb0",
+        "title": "13 July 2026 IIT JEE Excel-1 (Maths - Method of Differentiation - Lecture 1).mp4",
+        "subject": "Maths",
+        "ytId": "1NuWdJ4A184B3_Iif_JeILt04WNNL88Zh",
+        "batchId": "moslc5mhl5rd",
+        "date": "2026-08-11"
+    },
     {
         "id": "msn6vvqah4bc",
         "title": "18 July 2026 NEET Conquer-1 (Botany - Living World - Lecture 5).mp4",
