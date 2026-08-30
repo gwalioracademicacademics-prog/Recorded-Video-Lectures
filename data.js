@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 20/08/2026, 13:35:23
+//  Generated: 30/08/2026, 14:28:58
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1637,6 +1637,414 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mtfkv5aagq4c",
+        "title": "22 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 20).mp4",
+        "subject": "Botany",
+        "ytId": "1V3GvDqgQr9Q43c6edy43e86aXEEjL2ss",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkuu7r4ilu",
+        "title": "21 Aug 2026 NEET Excel-1 (Zoology - Biotechnology - Principle of Inheritance - Lecture 1).mp4",
+        "subject": "Zoology",
+        "ytId": "1Z9tiFZyATsIeMTjDexI4U9Ie3c0MCrwk",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfktwxvwsfc",
+        "title": "21 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 16).mp4",
+        "subject": "Chemistry",
+        "ytId": "1yYL5v7JoFMp1TiUAE7iCbIr3bV1UKdc0",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfktjt0s8u2",
+        "title": "20 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 17).mp4",
+        "subject": "Physics",
+        "ytId": "1ox1kJF5IehB9VNJJox6F6djb7yPsLLad",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkt76qdpbo",
+        "title": "20 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 15).mp4",
+        "subject": "Chemistry",
+        "ytId": "1wVbpSBqKhjgG4nTJG6XqXuoacpjtP71a",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkstb7cjsi",
+        "title": "20 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 18).mp4",
+        "subject": "Botany",
+        "ytId": "1Pu9yHnJO57n2hJ5UeL7yLC08LV3ovmBg",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfksfqs6ajh",
+        "title": "18 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 16).mp4",
+        "subject": "Physics",
+        "ytId": "1-xCKbXgQT-EwSSO1dVKmYYif_bYsAk7K",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfks32apywn",
+        "title": "18 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 14).mp4",
+        "subject": "Chemistry",
+        "ytId": "11WzUFIkGoS9k8XIQbLABiEF4gJoyNfZj",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkrokjomu2",
+        "title": "18 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 17).mp4",
+        "subject": "Botany",
+        "ytId": "1hrUaZZAehYFjEAj7oS7p396O4DnVDFwD",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkrcyyu7v2",
+        "title": "17 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 15).mp4",
+        "subject": "Physics",
+        "ytId": "1ZQ3m65cCcMQ4mh0KjIdESm-XI9qdJ32A",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkqzqkcwdh",
+        "title": "17 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 13).mp4",
+        "subject": "Chemistry",
+        "ytId": "1rEY7ktF0zag4KgwX7l7V7XPjZo5Og6vl",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkpob5f1s1",
+        "title": "14 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 12).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Yg3CPyj89rKgtVucz6mWOo2Fe4IxA7Ml",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkp9l3oaga",
+        "title": "14 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 15).mp4",
+        "subject": "Botany",
+        "ytId": "1AkS-Fwd9TP0mf-IRCIzTPlhQ1pAv5UKM",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkoure3mga",
+        "title": "13 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 14).mp4",
+        "subject": "Physics",
+        "ytId": "1blO74krZMo2S6N7d4jcAI60zxxCgYtHH",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfkoirt8kan",
+        "title": "13 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 11).mp4",
+        "subject": "Chemistry",
+        "ytId": "1xyClRfTqNp5vqnFnh-tnHbJORFJFzLCk",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjuyjbjpr5",
+        "title": "13 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 14).mp4",
+        "subject": "Botany",
+        "ytId": "1hOX-GAN3HvwrM9_ZEEEKRvu7Yi6i16dx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjulj9e4ps",
+        "title": "11 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 13).mp4",
+        "subject": "Physics",
+        "ytId": "1Jr79bdpM14vlwvm4QdDEAXV3kxCCowZn",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfju4roeq4l",
+        "title": "11 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 9).mp4",
+        "subject": "Chemistry",
+        "ytId": "1tV833Q8m823lvXwSQjO3pSQtggeGospk",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjta5piw8m",
+        "title": "10 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 8).mp4",
+        "subject": "Chemistry",
+        "ytId": "11CClj3BNgiqyAJi0EyDM1FH9i3DM9R5m",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjsy4e17ov",
+        "title": "10 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 12).mp4",
+        "subject": "Botany",
+        "ytId": "1GAjCmGEYf9UTXrCh95jgenFUEot04Mcs",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjskuoswn3",
+        "title": "09 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 7).mp4",
+        "subject": "Chemistry",
+        "ytId": "1v7K_yH-z8t000GLq77RazlKf-0wyVLxN",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjs8j5cib7",
+        "title": "08 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 12).mp4",
+        "subject": "Physics",
+        "ytId": "1ETBKcJVFScQ6JOFKFeKq70JK8o435ZK0",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjrvvla3qz",
+        "title": "08 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 11).mp4",
+        "subject": "Botany",
+        "ytId": "1L-xEOWCxpq7AdyGALPG05P0Aub0Aktal",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjriluba2b",
+        "title": "07 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 11).mp4",
+        "subject": "Physics",
+        "ytId": "1xL6XxeeMKcQAmTtm90HVtJ6QQG0qrpFx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjq8lczly9",
+        "title": "07 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 10).mp4",
+        "subject": "Botany",
+        "ytId": "1XsR0UL7pEZhpcp4_cmUtDyRpSwJApLbd",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjpueiyzxb",
+        "title": "06 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 10).mp4",
+        "subject": "Physics",
+        "ytId": "1o9ztZ4ZXd6CKDkga6KjfLGIxMe17_qhH",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjpigmrdkc",
+        "title": "06 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 6).mp4",
+        "subject": "Chemistry",
+        "ytId": "1F-Z8oA3s3YOKOMdS9XcT6JUq7EWnhqTb",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjp4fqncs6",
+        "title": "06 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 9).mp4",
+        "subject": "Botany",
+        "ytId": "1qEkc0vYKxbh5qTwjzf6h_QQ-c7Qytjj9",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjop0frn3p",
+        "title": "04 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 9).mp4",
+        "subject": "Physics",
+        "ytId": "1_Udl9qzRWU4GWpY59JaEsuYT-Ul6IRsp",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjoa4xoprr",
+        "title": "04 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 5).mp4",
+        "subject": "Chemistry",
+        "ytId": "1hq8h45_VEBa8k8CUWoMF5uaC1xVdIF2l",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjnvmlzih4",
+        "title": "03 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 8).mp4",
+        "subject": "Physics",
+        "ytId": "1GEM8eFY8D5LyQAIdbvOEl9TMxqjZtXMn",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjnk4hfyuc",
+        "title": "03 Aug 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 8).mp4",
+        "subject": "Botany",
+        "ytId": "1lf8tWHGP1xWIrkHjvsixlmXn3iEMoRvb",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjlzlia7ux",
+        "title": "31 July 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 3).mp4",
+        "subject": "Chemistry",
+        "ytId": "1GKelwnMLvNv1ktpjfQlsfPzGMwA8xUZA",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjlnz1cxi5",
+        "title": "31 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 6).mp4",
+        "subject": "Botany",
+        "ytId": "1DgBh7F5czzX_fJ56kRUHe9x-CIENSk3W",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjlbjrzlnx",
+        "title": "30 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 6).mp4",
+        "subject": "Physics",
+        "ytId": "1mt6JDT8IJC978VdJjf7X6f81cfA48I5z",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjkzpuns8p",
+        "title": "30 July 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 2).mp4",
+        "subject": "Chemistry",
+        "ytId": "1yUflTluP7tqIbInqjQgNhrO3fYbp6Ifl",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjka3z92ae",
+        "title": "30 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 5).mp4",
+        "subject": "Botany",
+        "ytId": "1NwwAfvXYaarKHtsu1cwbbtifok9Pjk8u",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjjwqbloio",
+        "title": "28 July 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 1).mp4",
+        "subject": "Chemistry",
+        "ytId": "19c_j80CG5xeq8qh2ZJB2HuWh07dQIVBp",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjjhokjnfu",
+        "title": "28 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 4).mp4",
+        "subject": "Botany",
+        "ytId": "1Y6_TsK8-ErC9S46M_a5xpXoSsuIS57C5",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjj5asbmdd",
+        "title": "27 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 5).mp4",
+        "subject": "Physics",
+        "ytId": "1KQcGrY6i8AyqByyuPNeSE2DRzVqflf6c",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjiujn9gcc",
+        "title": "27 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 3).mp4",
+        "subject": "Botany",
+        "ytId": "1YSlC8KFeTk_ZMMsTRfF5TrlPksT1Dntp",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjg3v5d7yz",
+        "title": "26 Aug 2026 NEET Excel-1 (Chemistry - Haloalkanes and Haloarenes - Lecture 17).mp4",
+        "subject": "Chemistry",
+        "ytId": "1cZy1UbqvMkL41yIqoIujW2Ex9Q0Mb_-H",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjfpdldww1",
+        "title": "25 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 4).mp4",
+        "subject": "Physics",
+        "ytId": "1rk7zXy1OfP_1ocKBPPe4G67eIG8b7aNw",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjfe6b8la4",
+        "title": "25 July 2026 NEET Excel-1 (Chemistry - Organic Chemistry - Lecture 5).mp4",
+        "subject": "Chemistry",
+        "ytId": "1Fe-YF4IES2w_XJjSbuue6RsEHO8kIcOx",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjf33v72fm",
+        "title": "25 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 2).mp4",
+        "subject": "Botany",
+        "ytId": "1EZuoFm757kc9nTQ1rc5XnZXb_4U3Zncb",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjephqxszw",
+        "title": "25 Aug 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 18).mp4",
+        "subject": "Physics",
+        "ytId": "180Drs8SVlZzbqRQGzNdjpqf3OTwbNmuV",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjecemueja",
+        "title": "24 July 2026 NEET Excel-1 (Chemistry - Organic Chemistry - Lecture 4).mp4",
+        "subject": "Chemistry",
+        "ytId": "1yTl0clWpw_S_pyV_xDA7ez4vrPlTC8VE",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjdzql36c8",
+        "title": "24 July 2026 NEET Excel-1 (Botany - Molecular Basis of Inheritence - Lecture 1).mp4",
+        "subject": "Botany",
+        "ytId": "1fLLK5eZVlg55-uyVgOlB7GW52iY-6y7r",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjdn4gde96",
+        "title": "23 July 2026 NEET Excel-1 (Physics - Geometrical Optics - Lecture 3).mp4",
+        "subject": "Physics",
+        "ytId": "1TD_orW0xusKBi1RtWFiJrcJ8KvkHn-zm",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjday129f1",
+        "title": "23 July 2026 NEET Excel-1 (Chemistry - Organics Chemistry - Lecture 3).mp4",
+        "subject": "Chemistry",
+        "ytId": "1T0c1jo5OqxW1VD2292A0Ooz5Qqkahjxs",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
+    {
+        "id": "mtfjbm4knyyg",
+        "title": "23 July 2026 NEET Excel-1 (Botany - Genetics - Lecture 36).mp4",
+        "subject": "Botany",
+        "ytId": "16ZHo7XlFLsz8RdxYqVHuW-KW76aC3Moj",
+        "batchId": "mpf8lvjd8x6n",
+        "date": "2026-08-30"
+    },
     {
         "id": "mt18jmf1q8te",
         "title": "21 July 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 7).mp4",
