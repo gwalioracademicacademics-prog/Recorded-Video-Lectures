@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 23/10/2026, 14:39:10
+//  Generated: 23/10/2026, 15:30:50
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1637,6 +1637,318 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mvksuqdsqltd",
+        "title": "31 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 6)",
+        "subject": "Maths",
+        "ytId": "1fWEL-wTIXfI14MGk3LsHoEUDAsUYJ68A",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksuek97wtl",
+        "title": "31 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 6) copy",
+        "subject": "Maths",
+        "ytId": "1qb0HEhFpRlKzHvFN_9uCIq1HR4HTztxT",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksu1axjfmz",
+        "title": "27 Aug 2026 IIT JEE Excel-2 (Chemistry - Coordinate Compounds - Lecture 14)",
+        "subject": "Chemistry",
+        "ytId": "1hxEcxvzl84Tx49zBhV4Hwj-07UFmPZTb",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkstlvvnhzy",
+        "title": "26 Aug 2026 IIT JEE Excel-2 (Physics - Wave Optics - Lecture 4)",
+        "subject": "Physics",
+        "ytId": "1JCLHIh9uXodpS0CisX9dc-Yp3VJBSw06",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkssppzjxot",
+        "title": "26 Aug 2026 IIT JEE Excel-2 (Chemistry - Haloalkane and Haloarenes - Lecture 6)",
+        "subject": "Chemistry",
+        "ytId": "1etwvABJ0QKiKAAxAMJPoqC9znEknWjHx",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkss8u3q5zw",
+        "title": "25 Aug 2026 IIT JEE Excel-2 (Physics - Wave Optics - Lecture 3)",
+        "subject": "Physics",
+        "ytId": "1T1O2YGs2nYrN_FF7Rh2K8Nd_x79oRs60",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksrwjn8f05",
+        "title": "24 Aug 2026 IIT JEE Excel-2 (Physics - Wave Optics - Lecture 2)",
+        "subject": "Physics",
+        "ytId": "1h5yyWxyrFqpunPKnqs4rHhyZVXnhR9J3",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksrgz4mimt",
+        "title": "24 Aug 2026 IIT JEE Excel-2 (Chemistry - Haloalkane and Haloarenes - Lecture 5)",
+        "subject": "Chemistry",
+        "ytId": "1WAx4GaKuN0ceqXnSCr7nVYtCh3ysgBYZ",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksr3bxdq45",
+        "title": "22 Aug 2026 IIT JEE Excel-2 (Physics - Wave Optics - Lecture 1)",
+        "subject": "Physics",
+        "ytId": "1sejUi3MpUDHWYU6xUh420JdFB_yZJMI6",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksqn3e899q",
+        "title": "22 Aug 2026 IIT JEE Excel-2 (Chemistry - Haloalkane and Haloarenes - Lecture 4)",
+        "subject": "Chemistry",
+        "ytId": "1VyPV0xhhO-D9f7PUPxoyYhHi9xvcI3eK",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksqabttjjd",
+        "title": "21 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 27)",
+        "subject": "Physics",
+        "ytId": "1vgkZ8Zsxng-qYCnCRuTs9mW3lQ7tJ8lp",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkspwjvpimf",
+        "title": "21 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 4)",
+        "subject": "Maths",
+        "ytId": "1qJ-tGPRFV9PheWc9HHS-p7P5Yeda85Iu",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksph0lfuzy",
+        "title": "20 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 26)",
+        "subject": "Physics",
+        "ytId": "1oY5TIoadS6f-Zyw8H8QH7vGnHkczJRls",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksoxw7oj5u",
+        "title": "20 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1kUqNJDHpTFSuJwuNQxzSAz_tGDQquxXY",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksoll51t8u",
+        "title": "18 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 25)",
+        "subject": "Physics",
+        "ytId": "1v2qDadGIMPoMMzSdRK0FqNEehscJvvZv",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkso4xv6xm5",
+        "title": "18 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 2)",
+        "subject": "Maths",
+        "ytId": "1TyYWgwzXf55U1SRBir11Qc2RJVqiR9_y",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkslwq217ni",
+        "title": "17 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 24)",
+        "subject": "Physics",
+        "ytId": "12ONiB8mDEFpfTp9XjzaprRJIfugl0mwa",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvksleyaiev1",
+        "title": "17 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 1)",
+        "subject": "Maths",
+        "ytId": "1DcyjrZCONw0fQP0Xkwc6nd0Vcsw6222W",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrqg0ovj9b",
+        "title": "14 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 23)",
+        "subject": "Physics",
+        "ytId": "1i2EO3RIKOME24SfBcKVnPeDVsPBu0WPs",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrq40ur1ia",
+        "title": "14 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 12)",
+        "subject": "Maths",
+        "ytId": "1mdhNlg6pB7FU4yWONxKLgHHguSvbmHwm",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrprzj2qwz",
+        "title": "13 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 22)",
+        "subject": "Physics",
+        "ytId": "1AJoz803nZh-qMYVrPwi3yM_soBD1lbMO",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrpehw8vsz",
+        "title": "13 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 11)",
+        "subject": "Maths",
+        "ytId": "1BUrAAaOm8RTYOzPV-h2NnfSnRK4dPejA",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrp1u6hf7u",
+        "title": "11 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 10)",
+        "subject": "Maths",
+        "ytId": "15EeOz32NPr4TJEsfRv3VR9sN_BiITkOs",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkroni47zey",
+        "title": "10 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 9)",
+        "subject": "Maths",
+        "ytId": "1YFqfUD69P_EKZp4Jkr9X4RZKuJxfSB1u",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkro96gb99y",
+        "title": "10 Aug 2026 IIT JEE Excel-2 (Chemistry - Coordinate Compounds - Lecture 10)",
+        "subject": "Chemistry",
+        "ytId": "1e7v63GK56OLcFbxqPKCNCCFZg1NO2rH9",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrm39kqpo0",
+        "title": "08 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 20)",
+        "subject": "Physics",
+        "ytId": "1l8MFV2fnma26K9HonJwkTOdmjW04FAGf",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrlr1qe7mi",
+        "title": "08 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 8)",
+        "subject": "Maths",
+        "ytId": "1BXfAMAbjE-aY5Z6aP0uEPmDzUFlD9jrU",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrlemooyon",
+        "title": "08 Aug 2026 IIT JEE Excel-2 (Chemistry - Coordinate Compounds - Lecture 9)",
+        "subject": "Chemistry",
+        "ytId": "1tuDT8Fw-8jJQNeioE6TfgMTDUkb__yZE",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrl10vzkjb",
+        "title": "07 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 7)",
+        "subject": "Maths",
+        "ytId": "1vrLrcph2QjB78VaFtmW9Hbub0n0_WOy_",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrkmcmutig",
+        "title": "06 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 18)",
+        "subject": "Physics",
+        "ytId": "1GLx0vmU-2_o4kZ5WwpygE4p4qu5DPm_r",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrka67op6m",
+        "title": "06 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 6)",
+        "subject": "Maths",
+        "ytId": "1CFQ4M2v_HE5bGwdTn2oPJFZljw_g9MZU",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrj6nbkatd",
+        "title": "06 Aug 2026 IIT JEE Excel-2 (Chemistry - Coordinate Compounds - Lecture 7)",
+        "subject": "Chemistry",
+        "ytId": "1MzmwkEDrTqCdrSU65dxFYCOrWlNFYmr7",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrf76j79qp",
+        "title": "04 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 17)",
+        "subject": "Physics",
+        "ytId": "1PxYCKPX4_vrll3S8wyPe86N9ZNcDCQQI",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkreq6tz381",
+        "title": "04 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 5)",
+        "subject": "Maths",
+        "ytId": "1t1RM-nx4aqf_Uims_lSH-BpdRiTCPPMW",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkre9askd03",
+        "title": "03 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 16)",
+        "subject": "Physics",
+        "ytId": "1LAbFCBCm32dgE4P7wRxFkFMbtQLoS-ep",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrdqym1fc3",
+        "title": "03 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1ah3cQmy4wnFcDGZrJ0zpC7kQCw12SwKm",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrdfrelb9o",
+        "title": "03 Aug 2026 IIT JEE Excel-2 (Chemistry - Coordinate Compounds - Lecture 6)",
+        "subject": "Chemistry",
+        "ytId": "1yulur4LcxZWcgNp_JsQs-Ex7E_4BGKJK",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrd1vv877x",
+        "title": "01 Aug 2026 IIT JEE Excel-2 (Physics - Ray Optics - Lecture 15)",
+        "subject": "Physics",
+        "ytId": "1mowIzlvfRykE8ZwKydc_68C_-0jdZZyq",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkrcp289ovc",
+        "title": "01 Aug 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 3)",
+        "subject": "Maths",
+        "ytId": "1wIV2YG9JDLbz_1IqbSQzyCAn_ixu2o9T",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
     {
         "id": "mvkqyyootkod",
         "title": "31 July 2026 IIT JEE Excel-2 (Maths - Application of Derivative - Lecture 2)",
