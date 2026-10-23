@@ -1,6 +1,6 @@
 // ================================================================
 //  data.js — Unacademy Gwalior Database
-//  Generated: 23/10/2026, 15:30:50
+//  Generated: 23/10/2026, 15:37:04
 //  Paste this entire file into data.js on GitHub and commit.
 // ================================================================
 
@@ -1637,6 +1637,22 @@ const DB = {
 ],
 
   lectures: [
+    {
+        "id": "mvkt1wb19s0n",
+        "title": "01 Sep 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 7)",
+        "subject": "Maths",
+        "ytId": "14c3fZ1RYcJ-qOyb0dxzf9lJimH9g8kG6",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
+    {
+        "id": "mvkt1h2cw0uj",
+        "title": "01 Sep 2026 IIT JEE Excel-2 (Chemistry - Haloalkane and Haloarenes - Lecture 9)",
+        "subject": "Chemistry",
+        "ytId": "1Nhi0xWMYG29_HBRyn42KHQYPXoe3tF9y",
+        "batchId": "mpf8lfvkcjdj",
+        "date": "2026-10-23"
+    },
     {
         "id": "mvksuqdsqltd",
         "title": "31 Aug 2026 IIT JEE Excel-2 (Maths - Indefinite Integration - Lecture 6)",
